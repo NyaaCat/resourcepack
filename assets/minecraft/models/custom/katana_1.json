@@ -1,7 +1,8 @@
 {
 	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
+	"gui_light": "front",
 	"textures": {
-		"katana_1": "blocks/katana_1"
+		"katana_1": "custom/katana_1"
 	},
 	"elements": [ 	 
 		{
