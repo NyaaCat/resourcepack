@@ -4,6 +4,6 @@
         "layer0": "item/wooden_sword"
     },
     "overrides":[
-        {"predicate": {"custom_model_data":1}, "model": "custom/katana_1"}
+        {"predicate": {"custom_model_data":1}, "model": "custom/sword_light_1"}
 	]
 }
