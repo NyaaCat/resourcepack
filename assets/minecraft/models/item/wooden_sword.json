@@ -15,6 +15,12 @@
         {"predicate": {"custom_model_data":9}, "model": "custom/sword_heavy_3"},
         {"predicate": {"custom_model_data":10}, "model": "custom/sword_heavy_4"},
         {"predicate": {"custom_model_data":11}, "model": "custom/sword_heavy_5"},
-        {"predicate": {"custom_model_data":12}, "model": "custom/sword_heavy_6"}
+        {"predicate": {"custom_model_data":12}, "model": "custom/sword_heavy_6"},
+        {"predicate": {"custom_model_data":13}, "model": "custom/sword_dagger_1"},
+        {"predicate": {"custom_model_data":14}, "model": "custom/sword_dagger_2"},
+        {"predicate": {"custom_model_data":15}, "model": "custom/sword_dagger_3"},
+        {"predicate": {"custom_model_data":16}, "model": "custom/sword_dagger_4"},
+        {"predicate": {"custom_model_data":17}, "model": "custom/sword_dagger_5"},
+        {"predicate": {"custom_model_data":18}, "model": "custom/sword_dagger_6"}
 	]
 }
