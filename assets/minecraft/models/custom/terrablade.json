@@ -2,7 +2,7 @@
 	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
 	"gui_light": "front",
 	"textures": {
-		"terrablade": "custom/terrablade"
+		"terrablade": "custom/sword_terrablade"
 	},
 	"elements": [ 	 
 		{
