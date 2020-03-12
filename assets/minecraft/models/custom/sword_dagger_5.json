@@ -2,7 +2,7 @@
 	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
 	"gui_light": "front",
 	"textures": {
-		"sword_dagger_5": "fustom/sword_dagger_5"
+		"sword_dagger_5": "custom/sword_dagger_5"
 	},
 	"elements": [ 	 
 		{
