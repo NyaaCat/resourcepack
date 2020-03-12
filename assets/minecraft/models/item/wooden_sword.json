@@ -22,6 +22,12 @@
         {"predicate": {"custom_model_data":16}, "model": "custom/sword_dagger_4"},
         {"predicate": {"custom_model_data":17}, "model": "custom/sword_dagger_5"},
         {"predicate": {"custom_model_data":18}, "model": "custom/sword_dagger_6"},
-        {"predicate": {"custom_model_data":101}, "model": "custom/sword_silverash"}
+        {"predicate": {"custom_model_data":101}, "model": "custom/sword_silverash"},
+        {"predicate": {"custom_model_data":102}, "model": "custom/sword_meowmere"},
+        {"predicate": {"custom_model_data":103}, "model": "custom/sword_genuine_serrakura"},
+        {"predicate": {"custom_model_data":104}, "model": "custom/terrablade"},
+        {"predicate": {"custom_model_data":105}, "model": "custom/genuine_serrakura_32x"},
+        {"predicate": {"custom_model_data":200}, "model": "custom/katana_nel"},
+        {"predicate": {"custom_model_data":201}, "model": "custom/katana_1"}
 	]
 }
