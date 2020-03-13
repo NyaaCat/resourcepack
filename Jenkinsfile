@@ -3,13 +3,14 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'zip -9 -r nyaacat-resourcepack.zip pack.mcmeta LICENSE assets'
+                sh 'mkdir -p out'
+                sh 'zip -9 -r out/nyaacat-resourcepack-${BUILD_NUMBER}.zip pack.mcmeta LICENSE assets'
             }
         }
     }
     post {
            always {
-               archiveArtifacts artifacts: '*.zip', fingerprint: true
+               archiveArtifacts artifacts: 'out/*.zip', fingerprint: true
                cleanWs()
            }
     }
