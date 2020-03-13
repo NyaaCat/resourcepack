@@ -30,7 +30,13 @@
         {"predicate": {"custom_model_data":106}, "model": "custom/arkhalis"},
         {"predicate": {"custom_model_data":107}, "model": "custom/beamsword"},
         {"predicate": {"custom_model_data":108}, "model": "custom/orichalcum_sword"},
+        {"predicate": {"custom_model_data":109}, "model": "custom/bloodbutcher"},
         {"predicate": {"custom_model_data":200}, "model": "custom/katana_nel"},
-        {"predicate": {"custom_model_data":201}, "model": "custom/katana_1"}
+        {"predicate": {"custom_model_data":201}, "model": "custom/katana_1"},
+        {"predicate": {"custom_model_data":202}, "model": "custom/katana_2"},
+        {"predicate": {"custom_model_data":203}, "model": "custom/katana_3"},
+        {"predicate": {"custom_model_data":204}, "model": "custom/katana_4"},
+        {"predicate": {"custom_model_data":205}, "model": "custom/katana_5"},
+        {"predicate": {"custom_model_data":206}, "model": "custom/katana_6"}
 	]
 }
