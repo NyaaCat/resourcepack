@@ -4,6 +4,7 @@
         "layer0": "item/wooden_hoe"
     },
     "overrides":[
-        {"predicate": {"custom_model_data":1}, "model": "custom/dragonbone"}
+        {"predicate": {"custom_model_data":1}, "model": "custom/dragonbone"},
+        {"predicate": {"custom_model_data":2}, "model": "custom/shirakiba"}
     ]
 }
