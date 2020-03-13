@@ -4,6 +4,6 @@
         "layer0": "item/stick"
     },
     "overrides":[
-        {"predicate": {"custom_model_data":1}, "model": "custom/prism"}
+        {"predicate": {"custom_model_data":1}, "model": "custom/crystalline_initio"}
 	]
 }
