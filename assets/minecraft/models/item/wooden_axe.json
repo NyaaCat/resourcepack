@@ -9,6 +9,7 @@
         {"predicate": {"custom_model_data":3}, "model": "custom/axe_3"},
         {"predicate": {"custom_model_data":4}, "model": "custom/axe_4"},
         {"predicate": {"custom_model_data":5}, "model": "custom/axe_5"},
-        {"predicate": {"custom_model_data":6}, "model": "custom/axe_6"}
+        {"predicate": {"custom_model_data":6}, "model": "custom/axe_6"},
+        {"predicate": {"custom_model_data":7}, "model": "custom/havoc_hammer"}
     ]
 }
