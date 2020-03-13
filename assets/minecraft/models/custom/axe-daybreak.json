@@ -2265,6 +2265,9 @@
 		},
 		"head": {
 			"translation":  [ 0, 12, 7 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 180, 0 ]
 		}
 	}
 }
