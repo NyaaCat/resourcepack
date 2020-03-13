@@ -5,6 +5,6 @@
     },
     "overrides":[
         {"predicate": {"custom_model_data":1}, "model": "custom/nebula_flame"},
-        {"predicate": {"custom_model_data":2}, "model": "custom/AKG-K701"}
+        {"predicate": {"custom_model_data":2}, "model": "custom/akg-k701"}
 	]
 }
