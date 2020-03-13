@@ -33,6 +33,7 @@
         {"predicate": {"custom_model_data":109}, "model": "custom/bloodbutcher"},
         {"predicate": {"custom_model_data":110}, "model": "custom/lightsbane"},
         {"predicate": {"custom_model_data":111}, "model": "custom/murasame"},
+        {"predicate": {"custom_model_data":112}, "model": "custom/murasamemaru"},
         {"predicate": {"custom_model_data":200}, "model": "custom/katana_nel"},
         {"predicate": {"custom_model_data":201}, "model": "custom/katana_1"},
         {"predicate": {"custom_model_data":202}, "model": "custom/katana_2"},
