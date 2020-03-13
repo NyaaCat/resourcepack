@@ -4,6 +4,6 @@
         "layer0": "item/wooden_pickaxe"
     },
     "overrides":[
-        {"predicate": {"custom_model_data":1}, "model": "custom/axe-daybreak"}
+        {"predicate": {"custom_model_data":1}, "model": "custom/daybreak"}
     ]
 }
