@@ -4,6 +4,7 @@
         "layer0": "item/paper"
     },
     "overrides":[
-        {"predicate": {"custom_model_data":1}, "model": "custom/arrow_bag"}
+        {"predicate": {"custom_model_data":1}, "model": "custom/arrow_bag"},
+        {"predicate": {"custom_model_data":2}, "model": "custom/bullet_bag"}
 	]
 }

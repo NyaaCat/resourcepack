@@ -6,6 +6,9 @@
     "overrides":[
         {"predicate": {"custom_model_data":1}, "model": "custom/crystalline_initio"},
         {"predicate": {"custom_model_data":2}, "model": "custom/flamelash"},
-        {"predicate": {"custom_model_data":3}, "model": "custom/hakureigohei"}
+        {"predicate": {"custom_model_data":3}, "model": "custom/hakureigohei"},
+        {"predicate": {"custom_model_data":4}, "model": "custom/staff_of_apex"},
+        {"predicate": {"custom_model_data":5}, "model": "custom/staff_of_perplex"},
+        {"predicate": {"custom_model_data":6}, "model": "custom/u2musume-staff"}
 	]
 }

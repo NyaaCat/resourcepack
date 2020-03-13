@@ -1,0 +1,1655 @@
+{
+	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
+	"gui_light": "front",
+	"textures": {
+		"staff_of_apex": "custom/staff_of_apex"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 0, 0, 7.6 ],
+			"to": [ 0.8, 0.4, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 0, 0.4, 7.6 ],
+			"to": [ 0.4, 0.8, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 0.4, 0.4, 7.6 ],
+			"to": [ 0.8, 0.8, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 0.4, 0.8, 7.6 ],
+			"to": [ 0.8, 1.2, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 0.8, 0.4, 7.6 ],
+			"to": [ 1.2, 0.8, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 0.8, 0.8, 7.6 ],
+			"to": [ 1.2, 1.2, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 0.8, 1.2, 7.6 ],
+			"to": [ 1.2, 1.6, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 1.2, 0.8, 7.6 ],
+			"to": [ 1.6, 1.2, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 1.2, 1.2, 7.6 ],
+			"to": [ 1.6, 1.6, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 1.2, 1.6, 7.6 ],
+			"to": [ 1.6, 2, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 1.6, 1.2, 7.6 ],
+			"to": [ 2, 1.6, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 1.6, 1.6, 7.6 ],
+			"to": [ 2, 2, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 1.6, 2, 7.6 ],
+			"to": [ 2, 2.4, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 2, 1.6, 7.6 ],
+			"to": [ 2.4, 2, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 2, 2, 7.6 ],
+			"to": [ 2.4, 2.4, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 2, 2.4, 7.6 ],
+			"to": [ 2.4, 2.8, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 2.4, 2, 7.6 ],
+			"to": [ 2.8, 2.4, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 2.4, 2.4, 7.6 ],
+			"to": [ 2.8, 2.8, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 2.4, 2.8, 7.6 ],
+			"to": [ 2.8, 3.2, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 2.8, 2.4, 7.6 ],
+			"to": [ 3.2, 2.8, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 2.8, 2.8, 7.6 ],
+			"to": [ 3.2, 3.2, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 2.8, 3.2, 7.6 ],
+			"to": [ 3.2, 3.6, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 3.2, 2.8, 7.6 ],
+			"to": [ 3.6, 3.2, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 3.2, 3.2, 7.6 ],
+			"to": [ 3.6, 3.6, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 3.2, 3.6, 7.6 ],
+			"to": [ 3.6, 4, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 3.6, 3.2, 7.6 ],
+			"to": [ 4, 3.6, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 3.6, 3.6, 7.6 ],
+			"to": [ 4, 4, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 3.6, 4, 7.6 ],
+			"to": [ 4, 4.4, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 4, 3.6, 7.6 ],
+			"to": [ 4.4, 4, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 4, 4, 7.6 ],
+			"to": [ 4.4, 4.4, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 4, 4.4, 7.6 ],
+			"to": [ 4.4, 4.8, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 4.4, 4, 7.6 ],
+			"to": [ 4.8, 4.4, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 4.4, 4.4, 7.6 ],
+			"to": [ 4.8, 4.8, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 4.4, 4.8, 7.6 ],
+			"to": [ 4.8, 5.2, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 4.8, 4.4, 7.6 ],
+			"to": [ 5.2, 4.8, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 4.8, 4.8, 7.6 ],
+			"to": [ 5.2, 5.2, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 4.8, 5.2, 7.6 ],
+			"to": [ 5.2, 5.6, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 5.2, 4.8, 7.6 ],
+			"to": [ 5.6, 5.2, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 5.2, 5.2, 7.6 ],
+			"to": [ 5.6, 5.6, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 5.2, 5.6, 7.6 ],
+			"to": [ 5.6, 6, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 5.6, 5.2, 7.6 ],
+			"to": [ 6, 5.6, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 5.6, 5.6, 7.6 ],
+			"to": [ 6, 6, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 5.6, 6, 7.6 ],
+			"to": [ 6, 6.4, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 6, 5.6, 7.6 ],
+			"to": [ 6.4, 6, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 6, 6, 7.6 ],
+			"to": [ 6.4, 6.4, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 6, 6.4, 7.6 ],
+			"to": [ 6.4, 6.8, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 6.4, 6, 7.6 ],
+			"to": [ 6.8, 6.4, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 6.4, 6.4, 7.6 ],
+			"to": [ 6.8, 6.8, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 6.4, 6.8, 7.6 ],
+			"to": [ 6.8, 7.2, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 6.8, 6.4, 7.6 ],
+			"to": [ 7.2, 6.8, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 6.8, 6.8, 7.6 ],
+			"to": [ 7.2, 7.2, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 6.8, 7.2, 7.6 ],
+			"to": [ 7.2, 7.6, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 7.2, 6.8, 7.6 ],
+			"to": [ 7.6, 7.2, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 7.2, 7.2, 7.6 ],
+			"to": [ 7.6, 7.6, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 7.2, 7.6, 7.6 ],
+			"to": [ 7.6, 8, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 7.6, 7.2, 7.6 ],
+			"to": [ 8, 7.6, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 7.6, 7.6, 7.6 ],
+			"to": [ 8, 8, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 7.6, 8, 7.6 ],
+			"to": [ 8, 8.4, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 8, 7.6, 7.6 ],
+			"to": [ 8.4, 8, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 8, 8, 7.6 ],
+			"to": [ 8.4, 8.4, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 8, 8.4, 7.6 ],
+			"to": [ 8.4, 8.799999, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 8.4, 8, 7.6 ],
+			"to": [ 8.799999, 8.4, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 8.4, 8.4, 7.6 ],
+			"to": [ 8.799999, 8.799999, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 8.4, 8.8, 7.6 ],
+			"to": [ 8.799999, 9.2, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 8.8, 8.4, 7.6 ],
+			"to": [ 9.2, 8.799999, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 8.8, 8.8, 7.6 ],
+			"to": [ 9.2, 9.2, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 8.8, 9.2, 7.6 ],
+			"to": [ 9.2, 9.599999, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 9.2, 8.8, 7.6 ],
+			"to": [ 9.599999, 9.2, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 9.2, 9.2, 7.6 ],
+			"to": [ 9.599999, 9.599999, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 9.2, 9.599999, 7.6 ],
+			"to": [ 9.599999, 9.999999, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 9.599999, 9.2, 7.6 ],
+			"to": [ 9.999999, 9.599999, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 9.599999, 9.599999, 7.6 ],
+			"to": [ 9.999999, 9.999999, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 9.599999, 10, 7.6 ],
+			"to": [ 11.2, 10.4, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10, 9.599999, 7.6 ],
+			"to": [ 10.4, 9.999999, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 10, 10, 7.2 ],
+			"to": [ 10.4, 10.4, 7.6 ],
+			"faces": {
+				"down": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 10, 10, 8.4 ],
+			"to": [ 10.4, 10.4, 8.799999 ],
+			"faces": {
+				"down": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10, 10.4, 7.2 ],
+			"to": [ 10.4, 10.8, 8.8 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10, 10.8, 7.6 ],
+			"to": [ 13.2, 11.2, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10.4, 10, 7.2 ],
+			"to": [ 10.8, 10.4, 7.6 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10.4, 10, 8.4 ],
+			"to": [ 10.8, 10.4, 8.799999 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 10.4, 10.4, 7.2 ],
+			"to": [ 10.8, 10.8, 7.6 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10.4, 10.4, 7.6 ],
+			"to": [ 12, 10.8, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 10.4, 10.4, 8.4 ],
+			"to": [ 10.8, 10.8, 8.799999 ],
+			"faces": {
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10.4, 10.8, 7.2 ],
+			"to": [ 10.8, 11.6, 7.6 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10.4, 10.8, 8.4 ],
+			"to": [ 10.8, 11.6, 8.799999 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10.4, 11.2, 7.6 ],
+			"to": [ 12.4, 11.6, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10.4, 11.6, 7.6 ],
+			"to": [ 12, 12, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10.8, 10.4, 7.2 ],
+			"to": [ 11.6, 10.8, 7.6 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10.8, 10.4, 8.4 ],
+			"to": [ 11.6, 10.8, 8.799999 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 10.8, 10.8, 7.2 ],
+			"to": [ 11.6, 11.6, 7.6 ],
+			"faces": {
+				"up": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 10.8, 10.8, 8.4 ],
+			"to": [ 11.6, 11.6, 8.799999 ],
+			"faces": {
+				"up": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10.8, 11.6, 7.2 ],
+			"to": [ 11.2, 12.8, 7.6 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10.8, 11.6, 8.4 ],
+			"to": [ 11.2, 12.8, 8.799999 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10.8, 12, 7.6 ],
+			"to": [ 11.6, 12.4, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 10.8, 12.4, 7.6 ],
+			"to": [ 11.2, 13.2, 8.4 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 10.8, 14.8, 7.6 ],
+			"to": [ 11.2, 15.2, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 11.2, 11.6, 7.2 ],
+			"to": [ 11.6, 12, 7.6 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 11.2, 11.6, 8.4 ],
+			"to": [ 11.6, 12, 8.799999 ],
+			"faces": {
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 11.2, 12, 7.2 ],
+			"to": [ 11.6, 12.4, 7.6 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 11.2, 12, 8.4 ],
+			"to": [ 11.6, 12.4, 8.799999 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 11.2, 14.4, 6.8 ],
+			"to": [ 11.6, 14.8, 7.6 ],
+			"faces": {
+				"down": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 11.2, 14.4, 8.4 ],
+			"to": [ 11.6, 14.8, 9.2 ],
+			"faces": {
+				"down": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 11.6, 10.8, 7.2 ],
+			"to": [ 12.8, 11.2, 7.6 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 11.6, 10.8, 8.4 ],
+			"to": [ 12.8, 11.2, 8.799999 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 11.6, 11.2, 7.2 ],
+			"to": [ 12, 11.6, 7.6 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 11.6, 11.2, 8.4 ],
+			"to": [ 12, 11.6, 8.799999 ],
+			"faces": {
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 11.6, 11.6, 7.2 ],
+			"to": [ 12, 12, 7.6 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 11.6, 11.6, 8.4 ],
+			"to": [ 12, 12, 8.799999 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 11.6, 14, 6.4 ],
+			"to": [ 12, 14.4, 6.8 ],
+			"faces": {
+				"down": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 11.6, 14, 9.2 ],
+			"to": [ 12, 14.4, 9.599999 ],
+			"faces": {
+				"down": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 12, 11.2, 7.2 ],
+			"to": [ 12.4, 11.6, 7.6 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 12, 11.2, 8.4 ],
+			"to": [ 12.4, 11.6, 8.799999 ],
+			"faces": {
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-00FF00",
+			"from": [ 12, 13.2, 7.2 ],
+			"to": [ 12.8, 14, 8 ],
+			"faces": {
+				"down": { "uv": [ 10.24, 11.24, 10.76, 11.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 10.24, 11.24, 10.76, 11.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 10.24, 11.24, 10.76, 11.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 10.24, 11.24, 10.76, 11.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 10.24, 11.24, 10.76, 11.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 10.24, 11.24, 10.76, 11.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-0000FF",
+			"from": [ 12.4, 11.6, 8 ],
+			"to": [ 13.2, 12.4, 8.8 ],
+			"faces": {
+				"down": { "uv": [ 3.24, 13.24, 3.76, 13.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 3.24, 13.24, 3.76, 13.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 3.24, 13.24, 3.76, 13.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 3.24, 13.24, 3.76, 13.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 3.24, 13.24, 3.76, 13.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 3.24, 13.24, 3.76, 13.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 12.4, 15.2, 7.6 ],
+			"to": [ 16, 15.6, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 12.8, 14.8, 7.2 ],
+			"to": [ 14.4, 15.2, 8.8 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 13.2, 14.4, 7.2 ],
+			"to": [ 13.6, 14.8, 8.8 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-FF0000",
+			"from": [ 13.6, 12.4, 7.6 ],
+			"to": [ 14.4, 13.2, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 4.24, 2.24, 4.76, 2.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 4.24, 2.24, 4.76, 2.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 4.24, 2.24, 4.76, 2.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 4.24, 2.24, 4.76, 2.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 4.24, 2.24, 4.76, 2.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 4.24, 2.24, 4.76, 2.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 13.6, 14, 7.2 ],
+			"to": [ 14, 14.4, 8.8 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 13.6, 14.4, 7.2 ],
+			"to": [ 15.2, 14.8, 7.6 ],
+			"faces": {
+				"down": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 13.6, 14.4, 7.6 ],
+			"to": [ 15.6, 14.8, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 13.6, 14.4, 8.4 ],
+			"to": [ 15.2, 14.8, 8.799999 ],
+			"faces": {
+				"down": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 14, 11.6, 6.4 ],
+			"to": [ 14.4, 12, 6.8 ],
+			"faces": {
+				"down": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 14, 11.6, 9.2 ],
+			"to": [ 14.4, 12, 9.599999 ],
+			"faces": {
+				"down": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 14, 13.6, 7.2 ],
+			"to": [ 14.4, 14, 8.8 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 14, 14, 7.2 ],
+			"to": [ 14.8, 14.4, 7.6 ],
+			"faces": {
+				"down": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 14, 14, 7.6 ],
+			"to": [ 15.6, 14.4, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 14, 14, 8.4 ],
+			"to": [ 14.8, 14.4, 8.799999 ],
+			"faces": {
+				"down": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 14, 15.2, 7.2 ],
+			"to": [ 15.2, 15.6, 7.6 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 14, 15.2, 8.4 ],
+			"to": [ 15.2, 15.6, 8.799999 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 14.4, 11.2, 6.8 ],
+			"to": [ 14.8, 11.6, 7.6 ],
+			"faces": {
+				"down": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 14.4, 11.2, 8.4 ],
+			"to": [ 14.8, 11.6, 9.2 ],
+			"faces": {
+				"down": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 14.4, 13.2, 7.2 ],
+			"to": [ 15.2, 13.6, 8.8 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 14.4, 13.6, 7.2 ],
+			"to": [ 14.8, 14, 7.6 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 14.4, 13.6, 7.6 ],
+			"to": [ 15.6, 14, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 14.4, 13.6, 8.4 ],
+			"to": [ 14.8, 14, 8.799999 ],
+			"faces": {
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 14.4, 14.8, 7.2 ],
+			"to": [ 15.2, 15.2, 7.6 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 14.4, 14.8, 7.6 ],
+			"to": [ 15.6, 15.2, 8.4 ],
+			"faces": {
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 14.4, 14.8, 8.4 ],
+			"to": [ 15.2, 15.2, 8.799999 ],
+			"faces": {
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 14.8, 10.8, 7.6 ],
+			"to": [ 15.2, 11.2, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 6.24, 0.2399998, 6.76, 0.7600002 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 14.8, 12.8, 7.2 ],
+			"to": [ 15.2, 13.2, 8.8 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 14.8, 13.6, 7.2 ],
+			"to": [ 15.2, 14.4, 7.6 ],
+			"faces": {
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 14.8, 13.6, 8.4 ],
+			"to": [ 15.2, 14.4, 8.799999 ],
+			"faces": {
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 15.2, 12.4, 7.6 ],
+			"to": [ 15.6, 13.6, 8.4 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 15.2, 14, 7.2 ],
+			"to": [ 15.6, 15.2, 7.6 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 15.2, 14, 8.4 ],
+			"to": [ 15.6, 15.2, 8.799999 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 15.2, 15.2, 7.2 ],
+			"to": [ 15.6, 15.6, 7.6 ],
+			"faces": {
+				"north": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5D462",
+			"from": [ 15.2, 15.2, 8.4 ],
+			"to": [ 15.6, 15.6, 8.799999 ],
+			"faces": {
+				"south": { "uv": [ 1.24, 6.24, 1.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 15.2, 15.6, 7.2 ],
+			"to": [ 16, 16, 8.8 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"up": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"west": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 15.6, 15.2, 7.2 ],
+			"to": [ 16, 15.6, 7.6 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"north": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		},
+		{
+			"__comment": "Voxels-CB782A",
+			"from": [ 15.6, 15.2, 8.4 ],
+			"to": [ 16, 15.6, 8.799999 ],
+			"faces": {
+				"down": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"south": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" },
+				"east": { "uv": [ 2.24, 6.24, 2.76, 6.76 ], "texture": "#staff_of_apex" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, 90, 75 ],
+			"translation":  [ -0.5, 1, 1.5 ],
+			"scale":  [ 1.5, 1.5, 1.5 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 0, -90, -75 ],
+			"translation":  [ 0.5, 1, 1.5 ],
+			"scale":  [ 1.5, 1.5, 1.5 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, -90, 25 ],
+			"translation":  [ 0, 5, 1.13 ],
+			"scale":  [ 0.65, 0.65, 0.65 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 90, -25 ],
+			"translation":  [ 0, 5, 1.13 ],
+			"scale":  [ 0.65, 0.65, 0.65 ]
+		},
+		"head": {
+			"translation":  [ 0, 12, 7 ]
+		},
+		"ground": {
+			"translation":  [ 0, 5, 0 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 180, 0 ]
+		}
+	}
+}
