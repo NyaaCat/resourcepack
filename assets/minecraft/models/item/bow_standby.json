@@ -28,12 +28,6 @@
     "overrides": [
         {
             "predicate": {
-                "pulling": 0
-            },
-            "model": "item/bow_standby"
-        },
-        {
-            "predicate": {
                 "pulling": 1
             },
             "model": "item/bow_pulling_0"
