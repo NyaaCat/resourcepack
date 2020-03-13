@@ -40,6 +40,8 @@
         {"predicate": {"custom_model_data":116}, "model": "custom/stygian_desolator"},
         {"predicate": {"custom_model_data":117}, "model": "custom/sword_yumo"},
         {"predicate": {"custom_model_data":118}, "model": "custom/titanium_sword"},
+        {"predicate": {"custom_model_data":119}, "model": "custom/star_fury"},
+        {"predicate": {"custom_model_data":120}, "model": "custom/star_warth"},
         {"predicate": {"custom_model_data":200}, "model": "custom/katana_nel"},
         {"predicate": {"custom_model_data":201}, "model": "custom/katana_1"},
         {"predicate": {"custom_model_data":202}, "model": "custom/katana_2"},

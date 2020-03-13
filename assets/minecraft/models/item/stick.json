@@ -9,6 +9,9 @@
         {"predicate": {"custom_model_data":3}, "model": "custom/hakureigohei"},
         {"predicate": {"custom_model_data":4}, "model": "custom/staff_of_apex"},
         {"predicate": {"custom_model_data":5}, "model": "custom/staff_of_perplex"},
-        {"predicate": {"custom_model_data":6}, "model": "custom/u2musume-staff"}
+        {"predicate": {"custom_model_data":6}, "model": "custom/u2musume-staff"},
+        {"predicate": {"custom_model_data":7}, "model": "custom/cube_of_imaginary"},
+        {"predicate": {"custom_model_data":8}, "model": "custom/spatial_pointer_of_singular_point"},
+        {"predicate": {"custom_model_data":9}, "model": "custom/staff_of_lighting"}
 	]
 }
