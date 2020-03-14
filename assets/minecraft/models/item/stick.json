@@ -13,8 +13,8 @@
         {"predicate": {"custom_model_data":7}, "model": "custom/cube_of_imaginary"},
         {"predicate": {"custom_model_data":8}, "model": "custom/spatial_pointer_of_singular_point"},
         {"predicate": {"custom_model_data":9}, "model": "custom/staff_of_lighting"},
-        {"predicate": {"custom_model_data":10}, "model": "custom/crysalvile"},
+        {"predicate": {"custom_model_data":10}, "model": "custom/crystalvile"},
         {"predicate": {"custom_model_data":11}, "model": "custom/shadowflame_knife"},
-        {"predicate": {"custom_model_data":12}, "model": "custom/electron_staff"}
+        {"predicate": {"custom_model_data":12}, "model": "custom/electronstaff"}
 	]
 }
