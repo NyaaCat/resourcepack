@@ -49,6 +49,7 @@
         {"predicate": {"custom_model_data":204}, "model": "custom/katana_4"},
         {"predicate": {"custom_model_data":205}, "model": "custom/katana_5"},
         {"predicate": {"custom_model_data":206}, "model": "custom/katana_6"},
+        {"predicate": {"custom_model_data":207}, "model": "custom/fafa_tail"},
         {"predicate": {"custom_model_data":300}, "model": "custom/senbakiri"}
 	]
 }
