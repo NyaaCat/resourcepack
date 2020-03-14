@@ -2914,52 +2914,5 @@
 			"translation":  [ 7, 3, -1 ],
 			"scale":  [ 0.6, 0.6, 0.6 ]
 		}
-	},
-	"overrides": [
-		{
-			"predicate": {
-				"pulling": 1
-			},
-			"model": "item/bow_pulling_0"
-		},
-		{
-			"predicate": {
-				"pull": 0.65,
-				"pulling": 1
-			},
-			"model": "item/bow_pulling_1"
-		},
-		{
-			"predicate": {
-				"pull": 0.9,
-				"pulling": 1
-			},
-			"model": "item/bow_pulling_2"
-		},
-		{
-			"predicate": {
-			},
-			"model": "item/bow"
-		},
-		{
-			"predicate": {
-				"pulling": 1
-			},
-			"model": "item/bow_pulling_0"
-		},
-		{
-			"predicate": {
-				"pull": 0.65,
-				"pulling": 1
-			},
-			"model": "item/bow_pulling_1"
-		},
-		{
-			"predicate": {
-				"pull": 0.9,
-				"pulling": 1
-			},
-			"model": "item/bow_pulling_2"
-		}
-	]
+	}
 }
