@@ -41,7 +41,11 @@
         {"predicate": {"custom_model_data":3,"pulling": 1}, "model": "custom/bow_yk2_1"},
         {"predicate": {"custom_model_data":3,"pulling": 1,"pull": 0.65}, "model": "custom/bow_yk2_2"},
         {"predicate": {"custom_model_data":3,"pulling": 1,"pull": 0.9}, "model": "custom/bow_yk2_3"},
-        
+        {"predicate": {"custom_model_data":4}, "model": "custom/bow_pulse_0"},
+        {"predicate": {"custom_model_data":4,"pulling": 1}, "model": "custom/bow_pulse_1"},
+        {"predicate": {"custom_model_data":4,"pulling": 1,"pull": 0.65}, "model": "custom/bow_pulse_2"},
+        {"predicate": {"custom_model_data":4,"pulling": 1,"pull": 0.9}, "model": "custom/bow_pulse_3"},
+
         {"predicate": {"custom_model_data":100}, "model": "custom/bow_lk_0"},
         {"predicate": {"custom_model_data":100,"pulling": 1}, "model": "custom/bow_lk_1"},
         {"predicate": {"custom_model_data":100,"pulling": 1,"pull": 0.65}, "model": "custom/bow_lk_2"},
