@@ -10525,14 +10525,14 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation":  [ 0, 90, 70 ],
-			"translation":  [ -0.5, 10, 8 ],
-			"scale":  [ 1.5, 1.5, 1.5 ]
+			"rotation":  [ 0, -90, 30 ],
+			"translation":  [ -0.5, 12, 5 ],
+			"scale":  [ 1.5, 1.5, -1.5 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation":  [ 0, -90, -70 ],
-			"translation":  [ -0.5, 10, 8 ],
-			"scale":  [ 1.5, 1.5, -1.5 ]
+			"rotation":  [ 0, 90, -30 ],
+			"translation":  [ -0.5, 12, 5 ],
+			"scale":  [ 1.5, 1.5, 1.5 ]
 		},
 		"firstperson_righthand": {
 			"rotation":  [ 0, 90, 55 ],

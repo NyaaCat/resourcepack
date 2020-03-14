@@ -11,6 +11,9 @@
         {"predicate": {"custom_model_data":5}, "model": "custom/redpotion_medium"},
         {"predicate": {"custom_model_data":6}, "model": "custom/redpotion_small"},
 
-        {"predicate": {"custom_model_data":100}, "model": "custom/dart"}
+        {"predicate": {"custom_model_data":100}, "model": "custom/dart"},
+        {"predicate": {"custom_model_data":101}, "model": "custom/nanobullet"},
+        {"predicate": {"custom_model_data":102}, "model": "custom/yiwen_coin"},
+        {"predicate": {"custom_model_data":103}, "model": "custom/nyaa_coin"}
 	]
 }

@@ -9,6 +9,7 @@
         {"predicate": {"custom_model_data":3}, "model": "custom/lunar_flare"},
         {"predicate": {"custom_model_data":4}, "model": "custom/magic_flower"},
         {"predicate": {"custom_model_data":5}, "model": "custom/coffee"},
-        {"predicate": {"custom_model_data":6}, "model": "custom/cross_shield"}
+        {"predicate": {"custom_model_data":6}, "model": "custom/cross_shield"},
+        {"predicate": {"custom_model_data":7}, "model": "custom/sun_stone"}
 	]
 }

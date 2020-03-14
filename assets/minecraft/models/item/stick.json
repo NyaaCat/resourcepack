@@ -15,6 +15,7 @@
         {"predicate": {"custom_model_data":9}, "model": "custom/staff_of_lighting"},
         {"predicate": {"custom_model_data":10}, "model": "custom/crystalvile"},
         {"predicate": {"custom_model_data":11}, "model": "custom/shadowflame_knife"},
-        {"predicate": {"custom_model_data":12}, "model": "custom/electronstaff"}
+        {"predicate": {"custom_model_data":12}, "model": "custom/electronstaff"},
+        {"predicate": {"custom_model_data":13}, "model": "custom/juda_soah"}
 	]
 }
