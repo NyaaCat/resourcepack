@@ -7,6 +7,8 @@
         {"predicate": {"custom_model_data":1}, "model": "custom/dragonbone"},
         {"predicate": {"custom_model_data":2}, "model": "custom/shirakiba"},
         {"predicate": {"custom_model_data":3}, "model": "custom/skydragonfury"},
-        {"predicate": {"custom_model_data":4}, "model": "custom/wakistaff"}
+        {"predicate": {"custom_model_data":4}, "model": "custom/wakistaff"},
+
+        {"predicate": {"custom_model_data":100}, "model": "custom/mini_bagua"}
     ]
 }
