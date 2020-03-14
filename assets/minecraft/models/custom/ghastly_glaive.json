@@ -1,7 +1,7 @@
 {
 	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"ghastly_glaive": "blocks/ghastly_glaive"
+		"ghastly_glaive": "custom/ghastly_glaive"
 	},
 	"elements": [ 	 
 		{

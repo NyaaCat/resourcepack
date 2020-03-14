@@ -2,7 +2,7 @@
 	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
 	"gui_light": "front",
 	"textures": {
-		"shadowflame_knife": "blocks/shadowflame_knife"
+		"shadowflame_knife": "custom/shadowflame_knife"
 	},
 	"elements": [ 	 
 		{

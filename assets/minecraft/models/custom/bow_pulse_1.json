@@ -3243,12 +3243,12 @@
 		},
 		"firstperson_righthand": {
 			"rotation":  [ 0, 40, -70 ],
-			"translation":  [ -1, 3, 0 ],
+			"translation":  [ -1, 2, 0 ],
 			"scale":  [ 0.4, 0.4, 0.4 ]
 		},
 		"firstperson_lefthand": {
 			"rotation":  [ 0, 40, -70 ],
-			"translation":  [ -1, 4, 0 ],
+			"translation":  [ -1, 3, 0 ],
 			"scale":  [ 0.4, 0.4, 0.4 ]
 		},
 		"gui": {
