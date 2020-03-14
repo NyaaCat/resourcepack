@@ -5,6 +5,7 @@
     },
     "overrides":[
         {"predicate": {"custom_model_data":1}, "model": "custom/daybreak"},
-        {"predicate": {"custom_model_data":2}, "model": "custom/nothpole"}
+        {"predicate": {"custom_model_data":2}, "model": "custom/nothpole"},
+        {"predicate": {"custom_model_data":3}, "model": "custom/valkyrie"}
     ]
 }

@@ -49,7 +49,7 @@
         {"predicate": {"custom_model_data":124}, "model": "custom/ghastly_glaive"},
         {"predicate": {"custom_model_data":125}, "model": "custom/hestia"},
         {"predicate": {"custom_model_data":126}, "model": "custom/sword_sb"},
-        {"predicate": {"custom_model_data":127}, "model": "custom/valkyrie"},
+        
         {"predicate": {"custom_model_data":128}, "model": "custom/ice_epiphyllum"},
 
         {"predicate": {"custom_model_data":200}, "model": "custom/katana_nel"},
