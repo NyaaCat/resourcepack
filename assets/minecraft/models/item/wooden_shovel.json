@@ -10,6 +10,8 @@
         {"predicate": {"custom_model_data":4}, "model": "custom/alienblaster"},
         {"predicate": {"custom_model_data":5}, "model": "custom/blackholemissle"},
         {"predicate": {"custom_model_data":6}, "model": "custom/longbow"},
+        {"predicate": {"custom_model_data":7}, "model": "custom/desert_eagle"},
+        {"predicate": {"custom_model_data":8}, "model": "custom/dragonbone_sniper"},
         {"predicate": {"custom_model_data":100}, "model": "custom/paintball_gun"}
     ]
 }

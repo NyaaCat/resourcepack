@@ -22,6 +22,7 @@
         {"predicate": {"custom_model_data":16}, "model": "custom/sword_dagger_4"},
         {"predicate": {"custom_model_data":17}, "model": "custom/sword_dagger_5"},
         {"predicate": {"custom_model_data":18}, "model": "custom/sword_dagger_6"},
+
         {"predicate": {"custom_model_data":101}, "model": "custom/sword_silverash"},
         {"predicate": {"custom_model_data":102}, "model": "custom/sword_meowmere"},
         {"predicate": {"custom_model_data":103}, "model": "custom/sword_genuine_serrakura"},
@@ -42,6 +43,8 @@
         {"predicate": {"custom_model_data":118}, "model": "custom/titanium_sword"},
         {"predicate": {"custom_model_data":119}, "model": "custom/star_fury"},
         {"predicate": {"custom_model_data":120}, "model": "custom/star_warth"},
+        {"predicate": {"custom_model_data":121}, "model": "custom/alastor"},
+
         {"predicate": {"custom_model_data":200}, "model": "custom/katana_nel"},
         {"predicate": {"custom_model_data":201}, "model": "custom/katana_1"},
         {"predicate": {"custom_model_data":202}, "model": "custom/katana_2"},

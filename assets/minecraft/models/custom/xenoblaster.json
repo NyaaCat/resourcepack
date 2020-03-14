@@ -2,7 +2,7 @@
 	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
 	"gui_light": "front",
 	"textures": {
-		"1": "custom/phoenix_buster"
+		"1": "custom/xenoblaster"
 	},
 	"elements": [ 	 
 		{

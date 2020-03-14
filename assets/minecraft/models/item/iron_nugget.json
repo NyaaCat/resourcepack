@@ -2,5 +2,15 @@
     "parent": "item/generated",
     "textures": {
         "layer0": "item/iron_nugget"
-    }
+    },
+    "overrides":[
+        {"predicate": {"custom_model_data":1}, "model": "custom/bluepotion_large"},
+        {"predicate": {"custom_model_data":2}, "model": "custom/bluepotion_medium"},
+        {"predicate": {"custom_model_data":3}, "model": "custom/bluepotion_small"},
+        {"predicate": {"custom_model_data":4}, "model": "custom/redpotion_large"},
+        {"predicate": {"custom_model_data":5}, "model": "custom/redpotion_medium"},
+        {"predicate": {"custom_model_data":6}, "model": "custom/redpotion_small"},
+
+        {"predicate": {"custom_model_data":100}, "model": "custom/dart"}
+	]
 }
