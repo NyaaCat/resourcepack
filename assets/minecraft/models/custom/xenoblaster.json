@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"gui_light": "front",
 	"textures": {
-		"1": "inf texture/xenoblaster"
+		"1": "custom/xenoblaster"
 	},
 	"elements": [
 		{
