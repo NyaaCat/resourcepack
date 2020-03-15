@@ -5,7 +5,7 @@
     },
     "overrides":[
         {"predicate": {"custom_model_data":1}, "model": "custom/nebula_flame"},
-        {"predicate": {"custom_model_data":2}, "model": "custom/akg-k701"},
+        {"predicate": {"custom_model_data":2}, "model": "custom/akg_k701"},
         {"predicate": {"custom_model_data":3}, "model": "custom/lunar_flare"},
         {"predicate": {"custom_model_data":4}, "model": "custom/magic_flower"},
         {"predicate": {"custom_model_data":5}, "model": "custom/coffee"},

@@ -25,6 +25,7 @@
         {"predicate": {"custom_model_data":19}, "model": "custom/pen_5"},
         {"predicate": {"custom_model_data":20}, "model": "custom/curvature_sphere"},
         {"predicate": {"custom_model_data":21}, "model": "custom/eyjafjalla"},
-        {"predicate": {"custom_model_data":22}, "model": "custom/ifrit"}
+        {"predicate": {"custom_model_data":22}, "model": "custom/ifrit"},
+        {"predicate": {"custom_model_data":23}, "model": "custom/staff_of_north_pole"}
 	]
 }

@@ -18,6 +18,7 @@
         {"predicate": {"custom_model_data":12}, "model": "custom/project_comet"},
         {"predicate": {"custom_model_data":13}, "model": "custom/project_meteor"},
         {"predicate": {"custom_model_data":14}, "model": "custom/heat_ray"},
+        {"predicate": {"custom_model_data":15}, "model": "custom/laser_mg"},
 
         {"predicate": {"custom_model_data":100}, "model": "custom/paintball_gun"}
     ]
