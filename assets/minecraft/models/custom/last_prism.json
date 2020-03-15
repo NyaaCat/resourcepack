@@ -1,5 +1,6 @@
 {
 	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
+	"gui_light": "front",
 	"textures": {
 		"prism_1": "custom/prism_1",
 		"prism_2": "custom/prism_2",
@@ -7751,6 +7752,15 @@
 			"rotation":  [ 34, 0, -45 ],
 			"translation":  [ 0, 9, -1 ],
 			"scale":  [ 0.6, 0.6, 0.6 ]
+		},
+		"ground": {
+			"rotation":  [ -35, 180, -45 ],
+			"scale":  [ 0.6, 0.6, 0.6 ]
+		},
+		"fixed": {
+			"rotation":  [ -125, 180, -45 ],
+			"translation":  [ 0, -2, 0 ],
+			"scale":  [ 0.7, 0.7, 0.7 ]
 		}
 	}
 }
