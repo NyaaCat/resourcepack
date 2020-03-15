@@ -17,6 +17,12 @@
         {"predicate": {"custom_model_data":11}, "model": "custom/shadowflame_knife"},
         {"predicate": {"custom_model_data":12}, "model": "custom/electronstaff"},
         {"predicate": {"custom_model_data":13}, "model": "custom/juda_soah"},
-        {"predicate": {"custom_model_data":14}, "model": "custom/tower"}
+        {"predicate": {"custom_model_data":14}, "model": "custom/tower"},
+        {"predicate": {"custom_model_data":15}, "model": "custom/demon_tentacle"},
+        {"predicate": {"custom_model_data":16}, "model": "custom/diviner_embrace"},
+        {"predicate": {"custom_model_data":17}, "model": "custom/pen_3"},
+        {"predicate": {"custom_model_data":18}, "model": "custom/pen_4"},
+        {"predicate": {"custom_model_data":19}, "model": "custom/pen_5"},
+        {"predicate": {"custom_model_data":20}, "model": "custom/curvature_sphere"}
 	]
 }

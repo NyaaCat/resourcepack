@@ -13,6 +13,8 @@
         {"predicate": {"custom_model_data":7}, "model": "custom/havoc_hammer"},
         {"predicate": {"custom_model_data":8}, "model": "custom/skull_basher"},
         {"predicate": {"custom_model_data":9}, "model": "custom/klbz"},
-        {"predicate": {"custom_model_data":10}, "model": "custom/axe_influx"}
+        {"predicate": {"custom_model_data":10}, "model": "custom/axe_influx"},
+        {"predicate": {"custom_model_data":11}, "model": "custom/billow_hammer"},
+        {"predicate": {"custom_model_data":12}, "model": "custom/blade_basher_of_skull"}
     ]
 }

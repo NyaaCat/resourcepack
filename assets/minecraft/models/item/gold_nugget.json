@@ -16,6 +16,8 @@
         {"predicate": {"custom_model_data":10}, "model": "custom/laser_torch"},
         {"predicate": {"custom_model_data":11}, "model": "custom/moon_stone"},
         {"predicate": {"custom_model_data":12}, "model": "custom/shining_stone"},
-        {"predicate": {"custom_model_data":13}, "model": "custom/star_force_bracelet"}
+        {"predicate": {"custom_model_data":13}, "model": "custom/star_force_bracelet"},
+        {"predicate": {"custom_model_data":14}, "model": "custom/fire_runes"},
+        {"predicate": {"custom_model_data":15}, "model": "custom/frost_runes"}
 	]
 }
