@@ -13,6 +13,8 @@
         {"predicate": {"custom_model_data":7}, "model": "custom/desert_eagle"},
         {"predicate": {"custom_model_data":8}, "model": "custom/dragonbone_sniper"},
         {"predicate": {"custom_model_data":9}, "model": "custom/explode_juan"},
+        {"predicate": {"custom_model_data":10}, "model": "custom/rifle_bibi"},
+        {"predicate": {"custom_model_data":11}, "model": "custom/tactical_shotgun"},
 
         {"predicate": {"custom_model_data":100}, "model": "custom/paintball_gun"}
     ]

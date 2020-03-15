@@ -10,6 +10,12 @@
         {"predicate": {"custom_model_data":4}, "model": "custom/magic_flower"},
         {"predicate": {"custom_model_data":5}, "model": "custom/coffee"},
         {"predicate": {"custom_model_data":6}, "model": "custom/cross_shield"},
-        {"predicate": {"custom_model_data":7}, "model": "custom/sun_stone"}
+        {"predicate": {"custom_model_data":7}, "model": "custom/sun_stone"},
+        {"predicate": {"custom_model_data":8}, "model": "custom/celestial_stone"},
+        {"predicate": {"custom_model_data":9}, "model": "custom/celestial_talisman"},
+        {"predicate": {"custom_model_data":10}, "model": "custom/laser_torch"},
+        {"predicate": {"custom_model_data":11}, "model": "custom/moon_stone"},
+        {"predicate": {"custom_model_data":12}, "model": "custom/shining_stone"},
+        {"predicate": {"custom_model_data":13}, "model": "custom/star_force_bracelet"}
 	]
 }
