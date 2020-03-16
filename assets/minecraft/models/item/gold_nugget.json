@@ -20,7 +20,7 @@
         {"predicate": {"custom_model_data":14}, "model": "custom/fire_runes"},
         {"predicate": {"custom_model_data":15}, "model": "custom/frost_runes"},
         {"predicate": {"custom_model_data":16}, "model": "custom/last_prism"},
-        {"predicate": {"custom_model_data":16}, "model": "custom/eye_of_cthulhu"},
-        {"predicate": {"custom_model_data":16}, "model": "custom/miracle_mallet"}
+        {"predicate": {"custom_model_data":17}, "model": "custom/eye_of_cthulhu"},
+        {"predicate": {"custom_model_data":18}, "model": "custom/miracle_mallet"}
 	]
 }
