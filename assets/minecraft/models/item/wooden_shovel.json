@@ -21,6 +21,12 @@
         {"predicate": {"custom_model_data":15}, "model": "custom/laser_mg"},
         {"predicate": {"custom_model_data":16}, "model": "custom/dart_rifle"},
         {"predicate": {"custom_model_data":17}, "model": "custom/tanoxi_2"},
+        {"predicate": {"custom_model_data":18}, "model": "custom/g7"},
+        {"predicate": {"custom_model_data":19}, "model": "custom/rocklet_launcher_1"},
+        {"predicate": {"custom_model_data":20}, "model": "custom/rocklet_launcher_2"},
+        {"predicate": {"custom_model_data":21}, "model": "custom/rocklet_launcher_3"},
+        {"predicate": {"custom_model_data":22}, "model": "custom/rocklet_launcher_4"},
+        {"predicate": {"custom_model_data":23}, "model": "custom/rocklet_launcher_5"},
 
         {"predicate": {"custom_model_data":100}, "model": "custom/paintball_gun"}
     ]
