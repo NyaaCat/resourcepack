@@ -1,6 +1,5 @@
 {
 	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
-	"gui_light": "front",
 	"textures": {
 		"eye_of_cthulhu": "custom/eye_of_cthulhu"
 	},
@@ -25255,6 +25254,15 @@
 			"rotation":  [ 0, 110, 20 ],
 			"translation":  [ 0, 2, 2 ],
 			"scale":  [ -0.4, 0.4, 0.4 ]
+		},
+		"gui": {
+			"rotation":  [ 30, 225, 0 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		},
+		"head": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 2, 0 ],
+			"scale":  [ 2, 2, 2 ]
 		},
 		"ground": {
 			"translation":  [ 0, 5, 0 ],
