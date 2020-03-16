@@ -19,6 +19,8 @@
         {"predicate": {"custom_model_data":13}, "model": "custom/star_force_bracelet"},
         {"predicate": {"custom_model_data":14}, "model": "custom/fire_runes"},
         {"predicate": {"custom_model_data":15}, "model": "custom/frost_runes"},
-        {"predicate": {"custom_model_data":16}, "model": "custom/last_prism"}
+        {"predicate": {"custom_model_data":16}, "model": "custom/last_prism"},
+        {"predicate": {"custom_model_data":16}, "model": "custom/eye_of_cthulhu"},
+        {"predicate": {"custom_model_data":16}, "model": "custom/miracle_mallet"}
 	]
 }

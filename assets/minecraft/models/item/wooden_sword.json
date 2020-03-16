@@ -53,6 +53,12 @@
         {"predicate": {"custom_model_data":128}, "model": "custom/ice_epiphyllum"},
         {"predicate": {"custom_model_data":129}, "model": "custom/green_sword"},
         {"predicate": {"custom_model_data":130}, "model": "custom/satan_blade"},
+        {"predicate": {"custom_model_data":131}, "model": "custom/gradient_blue_crystal"},
+        {"predicate": {"custom_model_data":132}, "model": "custom/needle"},
+        {"predicate": {"custom_model_data":133}, "model": "custom/pink_sword"},
+        {"predicate": {"custom_model_data":134}, "model": "custom/sakura_blossom"},
+        {"predicate": {"custom_model_data":135}, "model": "custom/thin_sword"},
+        {"predicate": {"custom_model_data":136}, "model": "custom/thin_sword_plus"},
 
         {"predicate": {"custom_model_data":200}, "model": "custom/katana_nel"},
         {"predicate": {"custom_model_data":201}, "model": "custom/katana_1"},
