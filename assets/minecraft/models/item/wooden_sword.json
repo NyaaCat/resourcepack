@@ -62,10 +62,12 @@
         {"predicate": {"custom_model_data":137}, "model": "custom/genuine_serrakura_first_white"},
         {"predicate": {"custom_model_data":138}, "model": "custom/genuine_serrakura_soul_green"},
         {"predicate": {"custom_model_data":139}, "model": "custom/genuine_serrakura_willow_yellow"},
-        {"predicate": {"custom_model_data":140}, "model": "custom/genuine_serrakura_willow_yellow"},
+        {"predicate": {"custom_model_data":140}, "model": "custom/genuine_serrakura_star_red"},
         {"predicate": {"custom_model_data":141}, "model": "custom/genuine_serrakura_wind_blue"},
         {"predicate": {"custom_model_data":142}, "model": "custom/genuine_serrakura_final_pink"},
         {"predicate": {"custom_model_data":143}, "model": "custom/hf_blade"},
+        {"predicate": {"custom_model_data":143}, "model": "custom/inverse_bayonet"},
+        {"predicate": {"custom_model_data":143}, "model": "custom/laymore_tuning_fork"},
 
         {"predicate": {"custom_model_data":200}, "model": "custom/katana_nel"},
         {"predicate": {"custom_model_data":201}, "model": "custom/katana_1"},

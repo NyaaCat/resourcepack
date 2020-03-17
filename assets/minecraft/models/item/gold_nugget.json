@@ -22,6 +22,9 @@
         {"predicate": {"custom_model_data":16}, "model": "custom/last_prism"},
         {"predicate": {"custom_model_data":17}, "model": "custom/eye_of_cthulhu"},
         {"predicate": {"custom_model_data":18}, "model": "custom/miracle_mallet"},
-        {"predicate": {"custom_model_data":19}, "model": "custom/nyaacat_badge"}
+        {"predicate": {"custom_model_data":19}, "model": "custom/nyaacat_badge"},
+        {"predicate": {"custom_model_data":20}, "model": "custom/contract"},
+        {"predicate": {"custom_model_data":21}, "model": "custom/samurai_soul"},
+        {"predicate": {"custom_model_data":22}, "model": "custom/whatsthis_sb"}
 	]
 }

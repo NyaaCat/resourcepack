@@ -1,0 +1,3043 @@
+{
+	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
+	"gui_light": "front",
+	"textures": {
+		"sceptre_of_the_throne": "custom/sceptre_of_the_throne"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Voxels-8DF300",
+			"from": [ 0, 0, 7.5 ],
+			"to": [ 0.5, 1, 8 ],
+			"faces": {
+				"down": { "uv": [ 15.62, 5.62, 15.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 15.62, 5.62, 15.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 15.62, 5.62, 15.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 15.62, 5.62, 15.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 15.62, 5.62, 15.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-89EF00",
+			"from": [ 0, 1, 7.5 ],
+			"to": [ 0.5, 1.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 0.12, 6.12, 0.38, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.12, 6.12, 0.38, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.12, 6.12, 0.38, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.12, 6.12, 0.38, 6.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-BD5700",
+			"from": [ 0, 1.5, 7.5 ],
+			"to": [ 0.5, 2, 8 ],
+			"faces": {
+				"up": { "uv": [ 15.12, 5.62, 15.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 15.12, 5.62, 15.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 15.12, 5.62, 15.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 15.12, 5.62, 15.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-A7FF0E",
+			"from": [ 0.5, 0, 7.5 ],
+			"to": [ 1, 0.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 6.12, 0.88, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 0.62, 6.12, 0.88, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 6.12, 0.88, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 6.12, 0.88, 6.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-CF6903",
+			"from": [ 0.5, 1.5, 7.5 ],
+			"to": [ 1, 2, 8 ],
+			"faces": {
+				"down": { "uv": [ 13.12, 5.62, 13.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 13.12, 5.62, 13.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 13.12, 5.62, 13.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 13.12, 5.62, 13.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-9AFF01",
+			"from": [ 1, 0, 7.5 ],
+			"to": [ 1.5, 0.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 1.12, 6.12, 1.38, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 1.12, 6.12, 1.38, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 1.12, 6.12, 1.38, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 1.12, 6.12, 1.38, 6.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-C25C00",
+			"from": [ 1, 1.5, 7.5 ],
+			"to": [ 1.5, 2, 8 ],
+			"faces": {
+				"down": { "uv": [ 14.62, 5.62, 14.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 14.62, 5.62, 14.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 14.62, 5.62, 14.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 14.62, 5.62, 14.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-D36D07",
+			"from": [ 1.5, 0, 7.5 ],
+			"to": [ 2, 0.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 13.62, 5.62, 13.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 13.62, 5.62, 13.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 13.62, 5.62, 13.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 13.62, 5.62, 13.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-CF6903",
+			"from": [ 1.5, 0.5, 7.5 ],
+			"to": [ 2, 1, 8 ],
+			"faces": {
+				"north": { "uv": [ 13.12, 5.62, 13.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 13.12, 5.62, 13.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 13.12, 5.62, 13.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 13.12, 5.62, 13.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-C96300",
+			"from": [ 1.5, 1, 7.5 ],
+			"to": [ 2, 1.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 12.62, 5.62, 12.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 12.62, 5.62, 12.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 12.62, 5.62, 12.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 12.62, 5.62, 12.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-CD6701",
+			"from": [ 1.5, 1.5, 7.5 ],
+			"to": [ 2, 2, 8 ],
+			"faces": {
+				"north": { "uv": [ 14.12, 5.62, 14.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 14.12, 5.62, 14.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 1.5, 2, 7.5 ],
+			"to": [ 2, 2.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 2, 1.5, 7.5 ],
+			"to": [ 2.5, 2, 8 ],
+			"faces": {
+				"down": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-999966",
+			"from": [ 2, 2, 7.5 ],
+			"to": [ 2.5, 2.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 2, 2.5, 7.5 ],
+			"to": [ 2.5, 3, 8 ],
+			"faces": {
+				"up": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 2.5, 2, 7.5 ],
+			"to": [ 3, 2.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-999966",
+			"from": [ 2.5, 2.5, 7.5 ],
+			"to": [ 3, 3, 8 ],
+			"faces": {
+				"north": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 2.5, 3, 7.5 ],
+			"to": [ 3, 3.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 3, 2.5, 7.5 ],
+			"to": [ 3.5, 3, 8 ],
+			"faces": {
+				"down": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-999966",
+			"from": [ 3, 3, 7.5 ],
+			"to": [ 3.5, 3.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 3, 3.5, 7.5 ],
+			"to": [ 3.5, 4, 8 ],
+			"faces": {
+				"up": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 3.5, 3, 7.5 ],
+			"to": [ 4, 3.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-999966",
+			"from": [ 3.5, 3.5, 7.5 ],
+			"to": [ 4, 4, 8 ],
+			"faces": {
+				"north": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 3.5, 4, 7.5 ],
+			"to": [ 4, 4.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 4, 3.5, 7.5 ],
+			"to": [ 4.5, 4, 8 ],
+			"faces": {
+				"down": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-999966",
+			"from": [ 4, 4, 7.5 ],
+			"to": [ 4.5, 4.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 4, 4.5, 7.5 ],
+			"to": [ 4.5, 5, 8 ],
+			"faces": {
+				"up": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 4.5, 4, 7.5 ],
+			"to": [ 5, 4.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-999966",
+			"from": [ 4.5, 4.5, 7.5 ],
+			"to": [ 5, 5, 8 ],
+			"faces": {
+				"north": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 4.5, 5, 7.5 ],
+			"to": [ 5, 5.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 5, 4.5, 7.5 ],
+			"to": [ 5.5, 5, 8 ],
+			"faces": {
+				"down": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-999966",
+			"from": [ 5, 5, 7.5 ],
+			"to": [ 5.5, 5.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 5, 5.5, 7.5 ],
+			"to": [ 5.5, 6, 8 ],
+			"faces": {
+				"up": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00EF56",
+			"from": [ 5, 8, 7.5 ],
+			"to": [ 5.5, 8.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 4.62, 0.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 4.62, 0.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 4.62, 0.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 4.62, 0.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 4.62, 0.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-04FC63",
+			"from": [ 5, 8.5, 7.5 ],
+			"to": [ 5.5, 9, 8 ],
+			"faces": {
+				"north": { "uv": [ 3.12, 5.62, 3.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 5.62, 3.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.12, 5.62, 3.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-03FB62",
+			"from": [ 5, 9, 7.5 ],
+			"to": [ 6, 9.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 3.62, 5.62, 3.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 3.62, 5.62, 3.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.62, 5.62, 3.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.62, 5.62, 3.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.62, 5.62, 3.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00EE55",
+			"from": [ 5, 9.5, 7.5 ],
+			"to": [ 5.5, 10, 8 ],
+			"faces": {
+				"up": { "uv": [ 4.12, 5.62, 4.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 4.12, 5.62, 4.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 4.12, 5.62, 4.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 4.12, 5.62, 4.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 5, 12, 7.5 ],
+			"to": [ 5.5, 12.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 5.5, 5, 7.5 ],
+			"to": [ 6, 5.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-999966",
+			"from": [ 5.5, 5.5, 7.5 ],
+			"to": [ 6, 6, 8 ],
+			"faces": {
+				"north": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 5.5, 6, 7.5 ],
+			"to": [ 6, 6.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-05FD64",
+			"from": [ 5.5, 8.5, 7.5 ],
+			"to": [ 6, 9, 8 ],
+			"faces": {
+				"down": { "uv": [ 7.62, 5.62, 7.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 7.62, 5.62, 7.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 7.62, 5.62, 7.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 7.62, 5.62, 7.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF33",
+			"from": [ 5.5, 9, 7 ],
+			"to": [ 6, 10, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FAFA00",
+			"from": [ 5.5, 9, 8 ],
+			"to": [ 6, 9.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 4.12, 4.12, 4.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 4.12, 4.12, 4.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 4.12, 4.12, 4.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 4.12, 4.12, 4.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00F158",
+			"from": [ 5.5, 9.5, 7.5 ],
+			"to": [ 6.5, 10, 8 ],
+			"faces": {
+				"down": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5F500",
+			"from": [ 5.5, 9.5, 8 ],
+			"to": [ 6, 10, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 3.62, 4.12, 3.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.62, 4.12, 3.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.62, 4.12, 3.88, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00EF56",
+			"from": [ 5.5, 10, 7.5 ],
+			"to": [ 6, 10.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 0.62, 4.62, 0.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 4.62, 0.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 4.62, 0.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-08FF67",
+			"from": [ 5.5, 10.5, 7.5 ],
+			"to": [ 7.5, 11, 8 ],
+			"faces": {
+				"down": { "uv": [ 6.12, 5.62, 6.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 6.12, 5.62, 6.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 6.12, 5.62, 6.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 6.12, 5.62, 6.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 6.12, 5.62, 6.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-33FFFF",
+			"from": [ 5.5, 12, 7.5 ],
+			"to": [ 6, 12.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 5.5, 12.5, 7.5 ],
+			"to": [ 6, 13, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 6, 5.5, 7.5 ],
+			"to": [ 6.5, 6, 8 ],
+			"faces": {
+				"down": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-999966",
+			"from": [ 6, 6, 7.5 ],
+			"to": [ 6.5, 6.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 6, 6.5, 7.5 ],
+			"to": [ 6.5, 7, 8 ],
+			"faces": {
+				"up": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-04FC63",
+			"from": [ 6, 9, 7.5 ],
+			"to": [ 6.5, 9.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 3.12, 5.62, 3.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.12, 5.62, 3.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 5.62, 3.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 3.12, 5.62, 3.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF33",
+			"from": [ 6, 9.5, 7 ],
+			"to": [ 6.5, 10.5, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F7F700",
+			"from": [ 6, 9.5, 8 ],
+			"to": [ 6.5, 10, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 4.12, 0.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 4.12, 0.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 4.12, 0.88, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FEFE00",
+			"from": [ 6, 10, 8 ],
+			"to": [ 6.5, 10.5, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 3.12, 4.12, 3.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 4.12, 3.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.12, 4.12, 3.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00F158",
+			"from": [ 6, 11, 7.5 ],
+			"to": [ 6.5, 11.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-2CF8F8",
+			"from": [ 6, 12.5, 7.5 ],
+			"to": [ 7, 13, 8 ],
+			"faces": {
+				"down": { "uv": [ 13.12, 5.12, 13.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 13.12, 5.12, 13.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 13.12, 5.12, 13.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 13.12, 5.12, 13.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 6, 13, 7.5 ],
+			"to": [ 6.5, 13.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 6.5, 6, 7.5 ],
+			"to": [ 7, 6.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-999966",
+			"from": [ 6.5, 6.5, 7.5 ],
+			"to": [ 7, 7, 8 ],
+			"faces": {
+				"north": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 6.5, 7, 7.5 ],
+			"to": [ 7, 7.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00EF56",
+			"from": [ 6.5, 9.5, 7.5 ],
+			"to": [ 7, 10, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 4.62, 0.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 4.62, 0.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 4.62, 0.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 4.62, 0.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF33",
+			"from": [ 6.5, 10, 7 ],
+			"to": [ 7, 11, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF0E",
+			"from": [ 6.5, 10, 8 ],
+			"to": [ 7, 10.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF0F",
+			"from": [ 6.5, 10.5, 8 ],
+			"to": [ 7, 11, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 2.62, 4.12, 2.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 2.62, 4.12, 2.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 2.62, 4.12, 2.88, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00EE55",
+			"from": [ 6.5, 11, 7.5 ],
+			"to": [ 7, 11.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 4.12, 5.62, 4.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 4.12, 5.62, 4.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 4.12, 5.62, 4.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-35FFFF",
+			"from": [ 6.5, 13, 7.5 ],
+			"to": [ 7, 13.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 14.62, 5.12, 14.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 14.62, 5.12, 14.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 14.62, 5.12, 14.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 7, 6.5, 7.5 ],
+			"to": [ 7.5, 7, 8 ],
+			"faces": {
+				"down": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-999966",
+			"from": [ 7, 7, 7.5 ],
+			"to": [ 7.5, 7.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 12.12, 1.12, 12.38, 1.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 7, 7.5, 7.5 ],
+			"to": [ 8, 8, 8 ],
+			"faces": {
+				"down": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-09FF68",
+			"from": [ 7, 10, 7.5 ],
+			"to": [ 7.5, 10.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 5.12, 5.62, 5.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.12, 5.62, 5.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.12, 5.62, 5.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 5.12, 5.62, 5.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF33",
+			"from": [ 7, 10.5, 7 ],
+			"to": [ 7.5, 11.5, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 7, 10.5, 8 ],
+			"to": [ 7.5, 11, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00F259",
+			"from": [ 7, 11, 7.5 ],
+			"to": [ 9, 11.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 6.62, 4.12, 6.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 6.62, 4.12, 6.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 6.62, 4.12, 6.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 6.62, 4.12, 6.88, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FBFB00",
+			"from": [ 7, 11, 8 ],
+			"to": [ 7.5, 11.5, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 2.12, 4.12, 2.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 2.12, 4.12, 2.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 2.12, 4.12, 2.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0DFF6C",
+			"from": [ 7, 11.5, 7.5 ],
+			"to": [ 7.5, 12, 8 ],
+			"faces": {
+				"up": { "uv": [ 7.12, 5.62, 7.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 7.12, 5.62, 7.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 7.12, 5.62, 7.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 7.12, 5.62, 7.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 7, 12.5, 7.5 ],
+			"to": [ 7.5, 13, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-26F2F2",
+			"from": [ 7, 13, 7.5 ],
+			"to": [ 7.5, 13.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 11.62, 5.12, 11.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.62, 5.12, 11.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.62, 5.12, 11.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EEEEEE",
+			"from": [ 7.5, 7, 7.5 ],
+			"to": [ 8, 7.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 11.12, 3.62, 11.38, 3.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFA23C",
+			"from": [ 7.5, 7.5, 7 ],
+			"to": [ 8, 8.5, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 1.12, 5.12, 1.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 1.12, 5.12, 1.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 1.12, 5.12, 1.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 1.12, 5.12, 1.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 1.12, 5.12, 1.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 1.12, 5.12, 1.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F08A24",
+			"from": [ 7.5, 7.5, 8 ],
+			"to": [ 8, 8, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 15.62, 4.62, 15.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 15.62, 4.62, 15.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 15.62, 4.62, 15.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FF9D37",
+			"from": [ 7.5, 8, 7.5 ],
+			"to": [ 8.5, 8.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 5.12, 5.12, 5.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 5.12, 5.12, 5.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.12, 5.12, 5.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.12, 5.12, 5.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 5.12, 5.12, 5.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FF9C36",
+			"from": [ 7.5, 8, 8 ],
+			"to": [ 8, 8.5, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 6.62, 5.12, 6.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 6.62, 5.12, 6.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 6.62, 5.12, 6.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00F75E",
+			"from": [ 7.5, 10.5, 7.5 ],
+			"to": [ 8, 11, 8 ],
+			"faces": {
+				"down": { "uv": [ 1.62, 4.62, 1.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 1.62, 4.62, 1.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 1.62, 4.62, 1.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF33",
+			"from": [ 7.5, 11, 7 ],
+			"to": [ 8, 11.5, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F4F400",
+			"from": [ 7.5, 11, 8 ],
+			"to": [ 8, 11.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 1.62, 4.12, 1.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 1.62, 4.12, 1.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 1.62, 4.12, 1.88, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00EE55",
+			"from": [ 7.5, 11.5, 7.5 ],
+			"to": [ 8, 12, 8 ],
+			"faces": {
+				"up": { "uv": [ 4.12, 5.62, 4.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 4.12, 5.62, 4.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 4.12, 5.62, 4.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-2FFBFB",
+			"from": [ 7.5, 12.5, 7.5 ],
+			"to": [ 8, 13, 8 ],
+			"faces": {
+				"down": { "uv": [ 10.12, 5.12, 10.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 10.12, 5.12, 10.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 10.12, 5.12, 10.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 7.5, 13, 7.5 ],
+			"to": [ 8, 13.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0BFF6A",
+			"from": [ 8, 5, 7.5 ],
+			"to": [ 8.5, 5.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 6.62, 5.62, 6.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 6.62, 5.62, 6.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 6.62, 5.62, 6.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 6.62, 5.62, 6.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 6.62, 5.62, 6.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFA842",
+			"from": [ 8, 7.5, 7 ],
+			"to": [ 8.5, 8, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 14.62, 4.62, 14.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 14.62, 4.62, 14.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 14.62, 4.62, 14.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F28C26",
+			"from": [ 8, 7.5, 7.5 ],
+			"to": [ 8.5, 8, 8 ],
+			"faces": {
+				"down": { "uv": [ 2.62, 5.12, 2.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 2.62, 5.12, 2.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFA640",
+			"from": [ 8, 7.5, 8 ],
+			"to": [ 8.5, 8, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 5.12, 5.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 5.12, 5.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 5.62, 5.12, 5.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FF9933",
+			"from": [ 8, 8, 7 ],
+			"to": [ 8.5, 8.5, 7.5 ],
+			"faces": {
+				"north": { "uv": [ 8.62, 0.1199999, 8.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFA741",
+			"from": [ 8, 8, 8 ],
+			"to": [ 8.5, 8.5, 8.5 ],
+			"faces": {
+				"south": { "uv": [ 13.62, 4.62, 13.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F28C26",
+			"from": [ 8, 8.5, 7 ],
+			"to": [ 8.5, 9, 7.5 ],
+			"faces": {
+				"up": { "uv": [ 2.62, 5.12, 2.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 2.62, 5.12, 2.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 2.62, 5.12, 2.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FA942E",
+			"from": [ 8, 8.5, 7.5 ],
+			"to": [ 9, 9, 8 ],
+			"faces": {
+				"down": { "uv": [ 4.62, 5.12, 4.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 4.62, 5.12, 4.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 4.62, 5.12, 4.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 4.62, 5.12, 4.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 4.62, 5.12, 4.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFA13B",
+			"from": [ 8, 8.5, 8 ],
+			"to": [ 8.5, 9, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 6.12, 5.12, 6.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 6.12, 5.12, 6.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 6.12, 5.12, 6.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 8, 10, 7 ],
+			"to": [ 8.5, 13, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 8, 10, 8 ],
+			"to": [ 8.5, 10.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00EE55",
+			"from": [ 8, 10.5, 7.5 ],
+			"to": [ 8.5, 11, 8 ],
+			"faces": {
+				"down": { "uv": [ 4.12, 5.62, 4.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF0E",
+			"from": [ 8, 10.5, 8 ],
+			"to": [ 8.5, 11, 8.5 ],
+			"faces": {
+				"south": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F9F900",
+			"from": [ 8, 11, 8 ],
+			"to": [ 8.5, 11.5, 8.5 ],
+			"faces": {
+				"south": { "uv": [ 1.12, 4.12, 1.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00F85F",
+			"from": [ 8, 11.5, 7.5 ],
+			"to": [ 8.5, 12, 8 ],
+			"faces": {
+				"up": { "uv": [ 13.62, 4.12, 13.88, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F7F700",
+			"from": [ 8, 11.5, 8 ],
+			"to": [ 8.5, 12, 8.5 ],
+			"faces": {
+				"south": { "uv": [ 0.62, 4.12, 0.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 4.12, 0.88, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF0E",
+			"from": [ 8, 12, 8 ],
+			"to": [ 8.5, 12.5, 8.5 ],
+			"faces": {
+				"north": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-3CFFFF",
+			"from": [ 8, 12.5, 7.5 ],
+			"to": [ 8.5, 13, 8 ],
+			"faces": {
+				"down": { "uv": [ 12.12, 5.12, 12.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F1F100",
+			"from": [ 8, 12.5, 8 ],
+			"to": [ 8.5, 13, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 4.62, 4.12, 4.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 4.62, 4.12, 4.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 4.62, 4.12, 4.88, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-32FEFE",
+			"from": [ 8, 13, 7.5 ],
+			"to": [ 9, 13.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 10.62, 5.12, 10.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 10.62, 5.12, 10.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 10.62, 5.12, 10.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 10.62, 5.12, 10.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0EFF6D",
+			"from": [ 8.5, 5, 7.5 ],
+			"to": [ 9, 5.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 5.62, 5.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.62, 5.62, 5.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 5.62, 5.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-03FB62",
+			"from": [ 8.5, 5.5, 7.5 ],
+			"to": [ 10, 6, 8 ],
+			"faces": {
+				"down": { "uv": [ 3.62, 5.62, 3.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 3.62, 5.62, 3.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.62, 5.62, 3.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.62, 5.62, 3.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.62, 5.62, 3.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FE9832",
+			"from": [ 8.5, 8, 7 ],
+			"to": [ 9, 8.5, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 3.62, 5.12, 3.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.62, 5.12, 3.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 3.62, 5.12, 3.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FF9A34",
+			"from": [ 8.5, 8, 7.5 ],
+			"to": [ 9, 8.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 3.12, 5.12, 3.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 3.12, 5.12, 3.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F08A24",
+			"from": [ 8.5, 8, 8 ],
+			"to": [ 9, 8.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 15.62, 4.62, 15.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 15.62, 4.62, 15.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 15.62, 4.62, 15.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF01",
+			"from": [ 8.5, 8.5, 7 ],
+			"to": [ 9, 9, 7.5 ],
+			"faces": {
+				"north": { "uv": [ 12.62, 4.62, 12.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F9F900",
+			"from": [ 8.5, 8.5, 8 ],
+			"to": [ 9, 9, 8.5 ],
+			"faces": {
+				"south": { "uv": [ 1.12, 4.12, 1.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F0F000",
+			"from": [ 8.5, 9, 7 ],
+			"to": [ 9, 9.5, 7.5 ],
+			"faces": {
+				"north": { "uv": [ 6.12, 4.62, 6.38, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 6.12, 4.62, 6.38, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FAFA00",
+			"from": [ 8.5, 9, 7.5 ],
+			"to": [ 9.5, 9.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 4.12, 4.12, 4.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 4.12, 4.12, 4.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 4.12, 4.12, 4.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 4.12, 4.12, 4.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 4.12, 4.12, 4.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF0E",
+			"from": [ 8.5, 9, 8 ],
+			"to": [ 9, 9.5, 8.5 ],
+			"faces": {
+				"south": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FDFD00",
+			"from": [ 8.5, 9.5, 7 ],
+			"to": [ 9, 10, 7.5 ],
+			"faces": {
+				"north": { "uv": [ 8.62, 4.62, 8.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 8.62, 4.62, 8.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F3F300",
+			"from": [ 8.5, 9.5, 7.5 ],
+			"to": [ 9, 10, 8 ],
+			"faces": {
+				"up": { "uv": [ 13.12, 4.62, 13.38, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 13.12, 4.62, 13.38, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FAFA00",
+			"from": [ 8.5, 9.5, 8 ],
+			"to": [ 9, 10, 8.5 ],
+			"faces": {
+				"south": { "uv": [ 4.12, 4.12, 4.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 4.12, 4.12, 4.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 8.5, 10, 7 ],
+			"to": [ 9, 13, 7.5 ],
+			"faces": {
+				"north": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 8.5, 10, 8 ],
+			"to": [ 9, 13, 8.5 ],
+			"faces": {
+				"north": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00F45B",
+			"from": [ 8.5, 10.5, 7.5 ],
+			"to": [ 9, 11, 8 ],
+			"faces": {
+				"down": { "uv": [ 3.62, 4.62, 3.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0CFF6B",
+			"from": [ 8.5, 11.5, 7.5 ],
+			"to": [ 9.5, 12, 8 ],
+			"faces": {
+				"down": { "uv": [ 8.62, 5.62, 8.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 8.62, 5.62, 8.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 8.62, 5.62, 8.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.62, 5.62, 8.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 8.5, 12.5, 7.5 ],
+			"to": [ 9, 13, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 8.5, 13, 7 ],
+			"to": [ 9, 14, 7.5 ],
+			"faces": {
+				"up": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 8.5, 13, 8 ],
+			"to": [ 9, 14, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0BFF6A",
+			"from": [ 9, 5, 7.5 ],
+			"to": [ 9.5, 5.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 6.62, 5.62, 6.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 6.62, 5.62, 6.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 6.62, 5.62, 6.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF33",
+			"from": [ 9, 5.5, 7 ],
+			"to": [ 10, 6, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F0F000",
+			"from": [ 9, 5.5, 8 ],
+			"to": [ 9.5, 6, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 6.12, 4.62, 6.38, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 6.12, 4.62, 6.38, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 6.12, 4.62, 6.38, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 6.12, 4.62, 6.38, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0FFF6E",
+			"from": [ 9, 6, 7.5 ],
+			"to": [ 9.5, 6.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 10.62, 5.62, 10.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 10.62, 5.62, 10.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 10.62, 5.62, 10.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 10.62, 5.62, 10.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF0A",
+			"from": [ 9, 8.5, 7 ],
+			"to": [ 9.5, 9, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 12.12, 4.62, 12.38, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 12.12, 4.62, 12.38, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF03",
+			"from": [ 9, 8.5, 7.5 ],
+			"to": [ 9.5, 9, 8 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 4.62, 5.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF0F",
+			"from": [ 9, 8.5, 8 ],
+			"to": [ 9.5, 9, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 2.62, 4.12, 2.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 2.62, 4.12, 2.88, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 9, 9, 7 ],
+			"to": [ 10, 9.5, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 9, 9, 8 ],
+			"to": [ 10, 9.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 9, 9.5, 7 ],
+			"to": [ 9.5, 10, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00F85F",
+			"from": [ 9, 10.5, 7.5 ],
+			"to": [ 9.5, 11, 8 ],
+			"faces": {
+				"down": { "uv": [ 13.62, 4.12, 13.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 13.62, 4.12, 13.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 13.62, 4.12, 13.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 13.62, 4.12, 13.88, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00EA51",
+			"from": [ 9, 11, 7.5 ],
+			"to": [ 10, 11.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 9.62, 5.62, 9.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 9.62, 5.62, 9.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 9.62, 5.62, 9.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 9.62, 5.62, 9.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 9.62, 5.62, 9.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-33FFFF",
+			"from": [ 9, 12.5, 7.5 ],
+			"to": [ 10, 13, 8 ],
+			"faces": {
+				"down": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 9, 13, 7 ],
+			"to": [ 9.5, 14, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 9, 13, 7.5 ],
+			"to": [ 9.5, 13.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 9, 13, 8 ],
+			"to": [ 9.5, 14, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 9, 14, 7 ],
+			"to": [ 9.5, 14.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0EFF6D",
+			"from": [ 9.5, 5, 7.5 ],
+			"to": [ 10, 5.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 5.62, 5.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.62, 5.62, 5.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 5.62, 5.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 5.62, 5.62, 5.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF03",
+			"from": [ 9.5, 5.5, 8 ],
+			"to": [ 10, 6, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 4.62, 5.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 4.62, 5.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 5.62, 4.62, 5.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF33",
+			"from": [ 9.5, 6, 7 ],
+			"to": [ 10.5, 6.5, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F9F900",
+			"from": [ 9.5, 6, 8 ],
+			"to": [ 10, 6.5, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 1.12, 4.12, 1.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 1.12, 4.12, 1.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 1.12, 4.12, 1.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-07FF66",
+			"from": [ 9.5, 6.5, 7.5 ],
+			"to": [ 11, 7, 8 ],
+			"faces": {
+				"down": { "uv": [ 8.12, 5.62, 8.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 8.12, 5.62, 8.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 8.12, 5.62, 8.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.12, 5.62, 8.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 8.12, 5.62, 8.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 9.5, 8.5, 7 ],
+			"to": [ 10, 9, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF0A",
+			"from": [ 9.5, 8.5, 7.5 ],
+			"to": [ 10, 9, 8 ],
+			"faces": {
+				"down": { "uv": [ 12.12, 4.62, 12.38, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 12.12, 4.62, 12.38, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF05",
+			"from": [ 9.5, 8.5, 8 ],
+			"to": [ 10, 9, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 10.12, 4.62, 10.38, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 10.12, 4.62, 10.38, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 9.5, 9, 7.5 ],
+			"to": [ 10, 9.5, 8 ],
+			"faces": {
+				"east": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0026F2",
+			"from": [ 9.5, 9.5, 7.5 ],
+			"to": [ 10, 10, 8 ],
+			"faces": {
+				"north": { "uv": [ 5.12, 6.12, 5.38, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.12, 6.12, 5.38, 6.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0031FD",
+			"from": [ 9.5, 10, 7.5 ],
+			"to": [ 10, 10.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 6.12, 6.12, 6.38, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 6.12, 6.12, 6.38, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 6.12, 6.12, 6.38, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 6.12, 6.12, 6.38, 6.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00F057",
+			"from": [ 9.5, 11.5, 7.5 ],
+			"to": [ 10, 12, 8 ],
+			"faces": {
+				"up": { "uv": [ 14.12, 4.12, 14.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 14.12, 4.12, 14.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 14.12, 4.12, 14.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-33FFFF",
+			"from": [ 9.5, 13, 7.5 ],
+			"to": [ 10.5, 13.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 9.5, 13.5, 7 ],
+			"to": [ 10, 14.5, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 9.5, 13.5, 8 ],
+			"to": [ 10, 14.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 9.5, 14, 7.5 ],
+			"to": [ 10, 14.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 9.5, 14.5, 7 ],
+			"to": [ 10.5, 15, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-09FF68",
+			"from": [ 10, 5.5, 7.5 ],
+			"to": [ 10.5, 6, 8 ],
+			"faces": {
+				"down": { "uv": [ 5.12, 5.62, 5.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.12, 5.62, 5.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.12, 5.62, 5.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF06",
+			"from": [ 10, 6, 8 ],
+			"to": [ 10.5, 6.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 5.12, 4.62, 5.38, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.12, 4.62, 5.38, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 5.12, 4.62, 5.38, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF33",
+			"from": [ 10, 6.5, 7 ],
+			"to": [ 11, 7, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF0E",
+			"from": [ 10, 6.5, 8 ],
+			"to": [ 10.5, 7, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00EB52",
+			"from": [ 10, 7, 7.5 ],
+			"to": [ 10.5, 7.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 11.62, 5.62, 11.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 11.62, 5.62, 11.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.62, 5.62, 11.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 11.62, 5.62, 11.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 10, 8, 7 ],
+			"to": [ 13, 8.5, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F6F600",
+			"from": [ 10, 8, 8 ],
+			"to": [ 10.5, 8.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 6.62, 4.62, 6.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 6.62, 4.62, 6.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 6.62, 4.62, 6.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 6.62, 4.62, 6.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 10, 8.5, 7 ],
+			"to": [ 13, 9, 7.5 ],
+			"faces": {
+				"up": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 10, 8.5, 8 ],
+			"to": [ 13, 9, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-002FFB",
+			"from": [ 10, 9.5, 7.5 ],
+			"to": [ 10.5, 10, 8 ],
+			"faces": {
+				"down": { "uv": [ 4.62, 6.12, 4.88, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 4.62, 6.12, 4.88, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 4.62, 6.12, 4.88, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 4.62, 6.12, 4.88, 6.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-002BF7",
+			"from": [ 10, 10, 7.5 ],
+			"to": [ 10.5, 10.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 4.12, 6.12, 4.38, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 4.12, 6.12, 4.38, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 4.12, 6.12, 4.38, 6.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 4.12, 6.12, 4.38, 6.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-07FF66",
+			"from": [ 10, 11.5, 7.5 ],
+			"to": [ 10.5, 12, 8 ],
+			"faces": {
+				"down": { "uv": [ 8.12, 5.62, 8.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 8.12, 5.62, 8.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 8.12, 5.62, 8.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.12, 5.62, 8.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 8.12, 5.62, 8.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 10, 12.5, 7.5 ],
+			"to": [ 10.5, 13, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0BFF6A",
+			"from": [ 10.5, 5.5, 7.5 ],
+			"to": [ 11, 6, 8 ],
+			"faces": {
+				"down": { "uv": [ 6.62, 5.62, 6.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 6.62, 5.62, 6.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 6.62, 5.62, 6.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 6.62, 5.62, 6.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00F057",
+			"from": [ 10.5, 6, 7.5 ],
+			"to": [ 11, 6.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 14.12, 4.12, 14.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 14.12, 4.12, 14.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F4F400",
+			"from": [ 10.5, 6.5, 8 ],
+			"to": [ 11, 7, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 1.62, 4.12, 1.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 1.62, 4.12, 1.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 1.62, 4.12, 1.88, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF33",
+			"from": [ 10.5, 7, 7 ],
+			"to": [ 11.5, 7.5, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF0E",
+			"from": [ 10.5, 7, 8 ],
+			"to": [ 11, 7.5, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.12, 4.12, 0.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00F158",
+			"from": [ 10.5, 7.5, 7.5 ],
+			"to": [ 11.5, 8, 8 ],
+			"faces": {
+				"down": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0FFF6E",
+			"from": [ 10.5, 8, 7.5 ],
+			"to": [ 11, 8.5, 8 ],
+			"faces": {
+				"west": { "uv": [ 10.62, 5.62, 10.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F0F000",
+			"from": [ 10.5, 8, 8 ],
+			"to": [ 11, 8.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 6.12, 4.62, 6.38, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 6.12, 4.62, 6.38, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-01F960",
+			"from": [ 10.5, 8.5, 7.5 ],
+			"to": [ 11, 9, 8 ],
+			"faces": {
+				"west": { "uv": [ 11.12, 5.62, 11.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-04FC63",
+			"from": [ 10.5, 9, 7.5 ],
+			"to": [ 11, 9.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 3.12, 5.62, 3.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.12, 5.62, 3.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 5.62, 3.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.12, 5.62, 3.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-29F5F5",
+			"from": [ 10.5, 12.5, 7.5 ],
+			"to": [ 11, 13, 8 ],
+			"faces": {
+				"down": { "uv": [ 12.62, 5.12, 12.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 12.62, 5.12, 12.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 12.62, 5.12, 12.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 10.5, 13, 7.5 ],
+			"to": [ 11, 13.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-33FFFF",
+			"from": [ 10.5, 13.5, 7.5 ],
+			"to": [ 11, 14, 8 ],
+			"faces": {
+				"up": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00F65D",
+			"from": [ 11, 6, 7.5 ],
+			"to": [ 11.5, 6.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 15.62, 4.12, 15.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 15.62, 4.12, 15.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 15.62, 4.12, 15.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 15.62, 4.12, 15.88, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00F35A",
+			"from": [ 11, 6.5, 7.5 ],
+			"to": [ 11.5, 7, 8 ],
+			"faces": {
+				"north": { "uv": [ 7.12, 4.12, 7.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 7.12, 4.12, 7.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 7.12, 4.12, 7.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-EFEF00",
+			"from": [ 11, 7, 8 ],
+			"to": [ 11.5, 7.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 4.62, 4.62, 4.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 4.62, 4.62, 4.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 4.62, 4.62, 4.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF33",
+			"from": [ 11, 7.5, 7 ],
+			"to": [ 11.5, 8, 7.5 ],
+			"faces": {
+				"north": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 2.62, 0.1199999, 2.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF07",
+			"from": [ 11, 7.5, 8 ],
+			"to": [ 11.5, 8, 8.5 ],
+			"faces": {
+				"south": { "uv": [ 4.12, 4.62, 4.38, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 4.12, 4.62, 4.38, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 4.12, 4.62, 4.38, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF03",
+			"from": [ 11, 8, 8 ],
+			"to": [ 11.5, 8.5, 8.5 ],
+			"faces": {
+				"south": { "uv": [ 5.62, 4.62, 5.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00F259",
+			"from": [ 11, 9, 7.5 ],
+			"to": [ 11.5, 9.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 6.62, 4.12, 6.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 6.62, 4.12, 6.88, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-07FF66",
+			"from": [ 11, 9.5, 7.5 ],
+			"to": [ 11.5, 10, 8 ],
+			"faces": {
+				"up": { "uv": [ 8.12, 5.62, 8.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 8.12, 5.62, 8.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.12, 5.62, 8.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 8.12, 5.62, 8.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-3CFFFF",
+			"from": [ 11, 12.5, 7.5 ],
+			"to": [ 11.5, 13, 8 ],
+			"faces": {
+				"down": { "uv": [ 12.12, 5.12, 12.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 12.12, 5.12, 12.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 12.12, 5.12, 12.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-26F2F2",
+			"from": [ 11, 13, 7.5 ],
+			"to": [ 11.5, 13.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 11.62, 5.12, 11.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.62, 5.12, 11.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 11, 13.5, 7.5 ],
+			"to": [ 11.5, 14, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-03FB62",
+			"from": [ 11.5, 7, 7.5 ],
+			"to": [ 12, 7.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 3.62, 5.62, 3.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.62, 5.62, 3.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.62, 5.62, 3.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 3.62, 5.62, 3.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0BFF6A",
+			"from": [ 11.5, 7.5, 7.5 ],
+			"to": [ 12, 8, 8 ],
+			"faces": {
+				"north": { "uv": [ 6.62, 5.62, 6.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 6.62, 5.62, 6.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 6.62, 5.62, 6.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-09FF68",
+			"from": [ 11.5, 8, 7.5 ],
+			"to": [ 12, 8.5, 8 ],
+			"faces": {
+				"east": { "uv": [ 5.12, 5.62, 5.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF04",
+			"from": [ 11.5, 8, 8 ],
+			"to": [ 12, 8.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 7.12, 4.62, 7.38, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 7.12, 4.62, 7.38, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-05FD64",
+			"from": [ 11.5, 8.5, 7.5 ],
+			"to": [ 12, 9, 8 ],
+			"faces": {
+				"east": { "uv": [ 7.62, 5.62, 7.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00EB52",
+			"from": [ 11.5, 9, 7.5 ],
+			"to": [ 12, 9.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 11.62, 5.62, 11.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.62, 5.62, 11.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 11.62, 5.62, 11.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00F158",
+			"from": [ 11.5, 9.5, 7.5 ],
+			"to": [ 12, 10, 8 ],
+			"faces": {
+				"north": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 9.12, 4.12, 9.38, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-00F45B",
+			"from": [ 11.5, 10, 7.5 ],
+			"to": [ 12, 10.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 3.62, 4.62, 3.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.62, 4.62, 3.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.62, 4.62, 3.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.62, 4.62, 3.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 3.62, 4.62, 3.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 11.5, 12.5, 7.5 ],
+			"to": [ 12, 13, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-40FFFF",
+			"from": [ 11.5, 13, 7.5 ],
+			"to": [ 12, 13.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 11.12, 5.12, 11.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.12, 5.12, 11.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-32FEFE",
+			"from": [ 11.5, 13.5, 7.5 ],
+			"to": [ 12, 14, 8 ],
+			"faces": {
+				"north": { "uv": [ 10.62, 5.12, 10.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 10.62, 5.12, 10.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 11.5, 14, 7.5 ],
+			"to": [ 12, 14.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 12, 5, 7.5 ],
+			"to": [ 12.5, 5.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-33FFFF",
+			"from": [ 12, 5.5, 7.5 ],
+			"to": [ 12.5, 6, 8 ],
+			"faces": {
+				"up": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F2F200",
+			"from": [ 12, 8, 8 ],
+			"to": [ 12.5, 8.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 7.62, 4.62, 7.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 7.62, 4.62, 7.88, 4.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 7.62, 4.62, 7.88, 4.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 12, 13, 7.5 ],
+			"to": [ 12.5, 13.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-2FFBFB",
+			"from": [ 12, 13.5, 7.5 ],
+			"to": [ 12.5, 14, 8 ],
+			"faces": {
+				"north": { "uv": [ 10.12, 5.12, 10.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 10.12, 5.12, 10.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-23EFEF",
+			"from": [ 12, 14, 7.5 ],
+			"to": [ 12.5, 14.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 9.62, 5.12, 9.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 9.62, 5.12, 9.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 12, 14.5, 7.5 ],
+			"to": [ 12.5, 15, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 12.5, 5.5, 7.5 ],
+			"to": [ 13, 6, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-2BF7F7",
+			"from": [ 12.5, 6, 7.5 ],
+			"to": [ 13, 6.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 2.12, 5.62, 2.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 2.12, 5.62, 2.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 2.12, 5.62, 2.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-2AF6F6",
+			"from": [ 12.5, 6.5, 7.5 ],
+			"to": [ 13, 7, 8 ],
+			"faces": {
+				"north": { "uv": [ 15.62, 5.12, 15.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 15.62, 5.12, 15.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 15.62, 5.12, 15.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 12.5, 7, 7.5 ],
+			"to": [ 13, 7.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-33FFFF",
+			"from": [ 12.5, 7.5, 7.5 ],
+			"to": [ 13, 8.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-F5F500",
+			"from": [ 12.5, 8, 8 ],
+			"to": [ 13, 8.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 3.62, 4.12, 3.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.62, 4.12, 3.88, 4.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 3.62, 4.12, 3.88, 4.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 12.5, 8.5, 7.5 ],
+			"to": [ 13, 9, 8 ],
+			"faces": {
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-27F3F3",
+			"from": [ 12.5, 9, 7.5 ],
+			"to": [ 13, 9.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 1.12, 5.62, 1.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 1.12, 5.62, 1.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 1.12, 5.62, 1.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-2AF6F6",
+			"from": [ 12.5, 9.5, 7.5 ],
+			"to": [ 13, 10, 8 ],
+			"faces": {
+				"north": { "uv": [ 15.62, 5.12, 15.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 15.62, 5.12, 15.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 15.62, 5.12, 15.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 12.5, 10, 7.5 ],
+			"to": [ 13, 10.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-2AF6F6",
+			"from": [ 12.5, 10.5, 7.5 ],
+			"to": [ 13, 11, 8 ],
+			"faces": {
+				"north": { "uv": [ 15.62, 5.12, 15.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 15.62, 5.12, 15.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 15.62, 5.12, 15.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-3AFFFF",
+			"from": [ 12.5, 11, 7.5 ],
+			"to": [ 13, 11.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 15.12, 5.12, 15.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 15.12, 5.12, 15.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 15.12, 5.12, 15.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 12.5, 11.5, 7.5 ],
+			"to": [ 13, 12, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 12.5, 13.5, 7.5 ],
+			"to": [ 13, 14, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-25F1F1",
+			"from": [ 12.5, 14, 7.5 ],
+			"to": [ 13, 14.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 7.12, 5.12, 7.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 7.12, 5.12, 7.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-33FFFF",
+			"from": [ 12.5, 14.5, 7.5 ],
+			"to": [ 13, 15, 8 ],
+			"faces": {
+				"north": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 12.5, 15, 7.5 ],
+			"to": [ 13, 15.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 13, 6, 7.5 ],
+			"to": [ 13.5, 6.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-36FFFF",
+			"from": [ 13, 6.5, 7.5 ],
+			"to": [ 13.5, 7, 8 ],
+			"faces": {
+				"north": { "uv": [ 2.62, 5.62, 2.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 2.62, 5.62, 2.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 2.62, 5.62, 2.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-3BFFFF",
+			"from": [ 13, 7, 7.5 ],
+			"to": [ 13.5, 7.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 14.12, 5.12, 14.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 14.12, 5.12, 14.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 14.12, 5.12, 14.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 13, 7.5, 7.5 ],
+			"to": [ 13.5, 8, 8 ],
+			"faces": {
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-33FFFF",
+			"from": [ 13, 8, 7.5 ],
+			"to": [ 13.5, 9, 8 ],
+			"faces": {
+				"north": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 13, 8.5, 7 ],
+			"to": [ 14, 9, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 13, 8.5, 8 ],
+			"to": [ 14, 9, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 13, 9, 7 ],
+			"to": [ 14, 9.5, 7.5 ],
+			"faces": {
+				"up": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 13, 9, 7.5 ],
+			"to": [ 13.5, 9.5, 8 ],
+			"faces": {
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 13, 9, 8 ],
+			"to": [ 14, 9.5, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-33FFFF",
+			"from": [ 13, 9.5, 7.5 ],
+			"to": [ 13.5, 10, 8 ],
+			"faces": {
+				"north": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-2AF6F6",
+			"from": [ 13, 10, 7.5 ],
+			"to": [ 13.5, 10.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 15.62, 5.12, 15.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 15.62, 5.12, 15.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 15.62, 5.12, 15.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 13, 10.5, 7.5 ],
+			"to": [ 13.5, 11, 8 ],
+			"faces": {
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-35FFFF",
+			"from": [ 13, 11, 7.5 ],
+			"to": [ 13.5, 11.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 14.62, 5.12, 14.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 14.62, 5.12, 14.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-3BFFFF",
+			"from": [ 13, 11.5, 7.5 ],
+			"to": [ 13.5, 12, 8 ],
+			"faces": {
+				"north": { "uv": [ 14.12, 5.12, 14.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 14.12, 5.12, 14.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 13, 12, 7.5 ],
+			"to": [ 13.5, 12.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 13, 14, 7.5 ],
+			"to": [ 13.5, 14.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-39FFFF",
+			"from": [ 13, 14.5, 7.5 ],
+			"to": [ 13.5, 15, 8 ],
+			"faces": {
+				"north": { "uv": [ 7.62, 5.12, 7.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 7.62, 5.12, 7.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-38FFFF",
+			"from": [ 13, 15, 7.5 ],
+			"to": [ 13.5, 15.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 8.12, 5.12, 8.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.12, 5.12, 8.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 13, 15.5, 7.5 ],
+			"to": [ 13.5, 16, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 13.5, 9.5, 7 ],
+			"to": [ 14.5, 10, 7.5 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 13.5, 9.5, 8 ],
+			"to": [ 14.5, 10, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-33FFFF",
+			"from": [ 13.5, 10.5, 7.5 ],
+			"to": [ 14, 11, 8 ],
+			"faces": {
+				"down": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 8.62, 2.12, 8.88, 2.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 13.5, 11, 7.5 ],
+			"to": [ 14, 11.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-3EFFFF",
+			"from": [ 13.5, 11.5, 7.5 ],
+			"to": [ 14, 12, 8 ],
+			"faces": {
+				"north": { "uv": [ 13.62, 5.12, 13.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 13.62, 5.12, 13.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-2CF8F8",
+			"from": [ 13.5, 12, 7.5 ],
+			"to": [ 14, 12.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 13.12, 5.12, 13.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 13.12, 5.12, 13.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 13.5, 12.5, 7.5 ],
+			"to": [ 14, 13, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 13.5, 14.5, 7.5 ],
+			"to": [ 14, 15, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-42FFFF",
+			"from": [ 13.5, 15, 7.5 ],
+			"to": [ 14, 15.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 8.62, 5.12, 8.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 8.62, 5.12, 8.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-3FFFFF",
+			"from": [ 13.5, 15.5, 7.5 ],
+			"to": [ 14, 16, 8 ],
+			"faces": {
+				"up": { "uv": [ 9.12, 5.12, 9.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 9.12, 5.12, 9.38, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 9.12, 5.12, 9.38, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 14, 9, 7 ],
+			"to": [ 14.5, 9.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFCC33",
+			"from": [ 14, 9.5, 7.5 ],
+			"to": [ 14.5, 10, 8 ],
+			"faces": {
+				"up": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 5.62, 0.1199999, 5.88, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 14, 11.5, 7.5 ],
+			"to": [ 14.5, 12, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-32FEFE",
+			"from": [ 14, 12, 7.5 ],
+			"to": [ 14.5, 12.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 10.62, 5.12, 10.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 10.62, 5.12, 10.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-26F2F2",
+			"from": [ 14, 12.5, 7.5 ],
+			"to": [ 14.5, 13, 8 ],
+			"faces": {
+				"north": { "uv": [ 11.62, 5.12, 11.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 11.62, 5.12, 11.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 14, 13, 7.5 ],
+			"to": [ 14.5, 13.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 14, 15, 7.5 ],
+			"to": [ 14.5, 15.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-39FFFF",
+			"from": [ 14, 15.5, 7.5 ],
+			"to": [ 14.5, 16, 8 ],
+			"faces": {
+				"up": { "uv": [ 7.62, 5.12, 7.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 7.62, 5.12, 7.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 7.62, 5.12, 7.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-FFFF00",
+			"from": [ 14.5, 9.5, 7 ],
+			"to": [ 15, 10.5, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 3.12, 0.1199999, 3.38, 0.3800001 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 14.5, 12, 7.5 ],
+			"to": [ 15, 12.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-31FDFD",
+			"from": [ 14.5, 12.5, 7.5 ],
+			"to": [ 15, 13, 8 ],
+			"faces": {
+				"north": { "uv": [ 0.12, 5.62, 0.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.12, 5.62, 0.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-2DF9F9",
+			"from": [ 14.5, 13, 7.5 ],
+			"to": [ 15, 13.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 0.62, 5.62, 0.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 5.62, 0.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 14.5, 13.5, 7.5 ],
+			"to": [ 15, 14, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 14.5, 15.5, 7.5 ],
+			"to": [ 15, 16, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 15, 12.5, 7.5 ],
+			"to": [ 15.5, 13, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-39FFFF",
+			"from": [ 15, 13, 7.5 ],
+			"to": [ 15.5, 13.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 7.62, 5.12, 7.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 7.62, 5.12, 7.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-27F3F3",
+			"from": [ 15, 13.5, 7.5 ],
+			"to": [ 15.5, 14, 8 ],
+			"faces": {
+				"north": { "uv": [ 1.12, 5.62, 1.38, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 1.12, 5.62, 1.38, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 15, 14, 7.5 ],
+			"to": [ 15.5, 14.5, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 15.5, 13, 7.5 ],
+			"to": [ 16, 13.5, 8 ],
+			"faces": {
+				"down": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-37FFFF",
+			"from": [ 15.5, 13.5, 7.5 ],
+			"to": [ 16, 14, 8 ],
+			"faces": {
+				"north": { "uv": [ 1.62, 5.62, 1.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 1.62, 5.62, 1.88, 5.88 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 1.62, 5.62, 1.88, 5.88 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-35FFFF",
+			"from": [ 15.5, 14, 7.5 ],
+			"to": [ 16, 14.5, 8 ],
+			"faces": {
+				"north": { "uv": [ 14.62, 5.12, 14.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 14.62, 5.12, 14.88, 5.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 14.62, 5.12, 14.88, 5.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		},
+		{
+			"__comment": "Voxels-0099FF",
+			"from": [ 15.5, 14.5, 7.5 ],
+			"to": [ 16, 15, 8 ],
+			"faces": {
+				"up": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"north": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"south": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"west": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" },
+				"east": { "uv": [ 0.62, 3.12, 0.88, 3.38 ], "texture": "#sceptre_of_the_throne" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, 90, 75 ],
+			"translation":  [ 0, 5, 5 ],
+			"scale":  [ 1.5, 1.5, 1.5 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 0, 90, 75 ],
+			"translation":  [ 0, 5, 5 ],
+			"scale":  [ -1.5, 1.5, 1.5 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 90, 55 ],
+			"translation":  [ 0, 4, 1.13 ],
+			"scale":  [ 0.65, 0.65, 0.65 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 90, 55 ],
+			"translation":  [ 0, 4, 1.13 ],
+			"scale":  [ -0.65, 0.65, 0.65 ]
+		},
+		"head": {
+			"translation":  [ 0, 12, 7 ]
+		},
+		"ground": {
+			"translation":  [ 0, 5, 0 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 180, 0 ],
+			"scale":  [ 0.75, 0.75, 0.75 ]
+		}
+	}
+}

@@ -26,6 +26,8 @@
         {"predicate": {"custom_model_data":20}, "model": "custom/curvature_sphere"},
         {"predicate": {"custom_model_data":21}, "model": "custom/eyjafjalla"},
         {"predicate": {"custom_model_data":22}, "model": "custom/ifrit"},
-        {"predicate": {"custom_model_data":23}, "model": "custom/staff_of_north_pole"}
+        {"predicate": {"custom_model_data":23}, "model": "custom/staff_of_north_pole"},
+        {"predicate": {"custom_model_data":24}, "model": "custom/megumin_staff"},
+        {"predicate": {"custom_model_data":25}, "model": "custom/sceptre_of_the_throne"}
 	]
 }
