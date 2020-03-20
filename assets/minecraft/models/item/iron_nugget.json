@@ -17,6 +17,7 @@
         {"predicate": {"custom_model_data":101}, "model": "custom/nanobullet"},
         {"predicate": {"custom_model_data":102}, "model": "custom/yiwen_coin"},
         {"predicate": {"custom_model_data":103}, "model": "custom/nyaa_coin"},
-        {"predicate": {"custom_model_data":104}, "model": "custom/coin_sb"}
+        {"predicate": {"custom_model_data":104}, "model": "custom/coin_sb"},
+        {"predicate": {"custom_model_data":105}, "model": "custom/dollar"}
 	]
 }
