@@ -30,7 +30,7 @@
         {"predicate": {"custom_model_data":24}, "model": "custom/stinger"},
         {"predicate": {"custom_model_data":25}, "model": "custom/dk07_gun"},
         {"predicate": {"custom_model_data":26}, "model": "custom/vortex_sniper"},
-        {"predicate": {"custom_model_data":27}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":27}, "model": "custom/destiny_aquarius"},
         {"predicate": {"custom_model_data":28}, "model": "custom/missing"},
         {"predicate": {"custom_model_data":29}, "model": "custom/missing"},
         {"predicate": {"custom_model_data":30}, "model": "custom/missing"},
