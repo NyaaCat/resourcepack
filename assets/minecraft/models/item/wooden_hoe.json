@@ -9,7 +9,32 @@
         {"predicate": {"custom_model_data":3}, "model": "custom/skydragonfury"},
         {"predicate": {"custom_model_data":4}, "model": "custom/wakistaff"},
         {"predicate": {"custom_model_data":5}, "model": "custom/bone_richistick"},
+        {"predicate": {"custom_model_data":6}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":7}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":8}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":9}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":10}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":11}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":12}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":13}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":14}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":15}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":16}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":17}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":18}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":19}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":20}, "model": "custom/missing"},
 
-        {"predicate": {"custom_model_data":100}, "model": "custom/mini_bagua"}
+        {"predicate": {"custom_model_data":100}, "model": "custom/mini_bagua"},
+        {"predicate": {"custom_model_data":101}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":102}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":103}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":104}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":105}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":106}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":107}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":108}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":109}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":110}, "model": "custom/missing"}
     ]
 }

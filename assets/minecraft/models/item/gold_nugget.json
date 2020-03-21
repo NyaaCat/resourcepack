@@ -25,6 +25,23 @@
         {"predicate": {"custom_model_data":19}, "model": "custom/nyaacat_badge"},
         {"predicate": {"custom_model_data":20}, "model": "custom/contract"},
         {"predicate": {"custom_model_data":21}, "model": "custom/samurai_soul"},
-        {"predicate": {"custom_model_data":22}, "model": "custom/whatsthis_sb"}
+        {"predicate": {"custom_model_data":22}, "model": "custom/whatsthis_sb"},
+        {"predicate": {"custom_model_data":23}, "model": "custom/aurora_ring"},
+        {"predicate": {"custom_model_data":24}, "model": "custom/octantis"},
+        {"predicate": {"custom_model_data":25}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":26}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":27}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":28}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":29}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":30}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":31}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":32}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":33}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":34}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":35}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":36}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":37}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":38}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":39}, "model": "custom/missing"}
 	]
 }

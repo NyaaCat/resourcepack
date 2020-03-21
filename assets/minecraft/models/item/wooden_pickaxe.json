@@ -6,6 +6,13 @@
     "overrides":[
         {"predicate": {"custom_model_data":1}, "model": "custom/daybreak"},
         {"predicate": {"custom_model_data":2}, "model": "custom/nothpole"},
-        {"predicate": {"custom_model_data":3}, "model": "custom/valkyrie"}
+        {"predicate": {"custom_model_data":3}, "model": "custom/valkyrie"},
+        {"predicate": {"custom_model_data":4}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":5}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":6}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":7}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":8}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":9}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":10}, "model": "custom/missing"}
     ]
 }
