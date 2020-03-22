@@ -2,7 +2,7 @@
 	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
 	"gui_light": "front",
 	"textures": {
-		"40m_knife": "custom/40m_knife"
+		"40m_knife": "blocks/40m_knife"
 	},
 	"elements": [ 	 
 		{
@@ -11977,14 +11977,14 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation":  [ 0, 90, 55 ],
-			"translation":  [ 0, 94, 18 ],
-			"scale":  [ 3, 3, 3 ]
+			"rotation":  [ 0, 90, 72 ],
+			"translation":  [ 0, 80, 42.5 ],
+			"scale":  [ 2.8, 2.8, 2.8 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation":  [ 0, 90, 55 ],
-			"translation":  [ 0, 94, 18 ],
-			"scale":  [ -3, 3, 3 ]
+			"rotation":  [ 0, 90, 72 ],
+			"translation":  [ 0, 80, 42.5 ],
+			"scale":  [ -2.8, 2.8, 2.8 ]
 		},
 		"firstperson_righthand": {
 			"rotation":  [ 0, 95, 50 ],
@@ -11996,12 +11996,21 @@
 			"translation":  [ 2, 47, 2 ],
 			"scale":  [ -1.5, 1.5, 1.2 ]
 		},
+		"gui": {
+			"translation":  [ 40, 40, 0 ],
+			"scale":  [ 2, 2, 2 ]
+		},
 		"head": {
 			"translation":  [ 0, 12, 7 ]
 		},
 		"ground": {
 			"translation":  [ 14, 17, 0 ],
 			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"fixed": {
+			"rotation":  [ 0, 180, 0 ],
+			"translation":  [ -40, 40, 0 ],
+			"scale":  [ 2, 2, 2 ]
 		}
 	}
 }
