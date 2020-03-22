@@ -87,7 +87,7 @@
         {"predicate": {"custom_model_data":148}, "model": "custom/sigma"},
         {"predicate": {"custom_model_data":149}, "model": "custom/sleeve_sword"},
         {"predicate": {"custom_model_data":150}, "model": "custom/40m_knife"},
-        {"predicate": {"custom_model_data":151}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":151}, "model": "custom/solar_eruption"},
         {"predicate": {"custom_model_data":152}, "model": "custom/missing"},
         {"predicate": {"custom_model_data":153}, "model": "custom/missing"},
         {"predicate": {"custom_model_data":154}, "model": "custom/missing"},
