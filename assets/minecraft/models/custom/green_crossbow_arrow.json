@@ -2681,13 +2681,13 @@
 			"scale":  [ 0.9, 0.9, 0.9 ]
 		},
 		"firstperson_righthand": {
-			"rotation":  [ -90, -180, 50 ],
-			"translation":  [ 0, 2, 1 ],
+			"rotation":  [ -90, 180, 53 ],
+			"translation":  [ 1.13, 3.2, 1.13 ],
 			"scale":  [ 0.9, 0.9, 0.9 ]
 		},
 		"firstperson_lefthand": {
-			"rotation":  [ -90, -180, -40 ],
-			"translation":  [ 0, 2, 1 ],
+			"rotation":  [ -90, 180, -37 ],
+			"translation":  [ 1.13, 3.2, 1.13 ],
 			"scale":  [ 0.9, 0.9, 0.9 ]
 		},
 		"gui": {
