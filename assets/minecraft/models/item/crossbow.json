@@ -26,38 +26,76 @@
         }
     },
     "overrides": [
-        {
-            "predicate": {
-                "pulling": 1
-            },
-            "model": "item/crossbow_pulling_0"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 0.58
-            },
-            "model": "item/crossbow_pulling_1"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 1.0
-            },
-            "model": "item/crossbow_pulling_2"
-        },
-        {
-            "predicate": {
-                "charged": 1
-            },
-            "model": "item/crossbow_arrow"
-        },
-        {
-            "predicate": {
-                "charged": 1,
-                "firework": 1
-            },
-            "model": "item/crossbow_firework"
-        }
+        {"predicate": {"pulling": 1},"model": "item/crossbow_pulling_0"},
+        {"predicate": {"pulling": 1,"pull": 0.58},"model": "item/crossbow_pulling_1"},
+        {"predicate": {"pulling": 1,"pull": 1.0},"model": "item/crossbow_pulling_2"},
+        {"predicate": {"charged": 1},"model": "item/crossbow_arrow"},
+        {"predicate": {"charged": 1,"firework": 1},"model": "item/crossbow_firework"},
+        {"predicate": {"custom_model_data":1}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":1,"pulling": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":1,"pulling": 1,"pull": 0.58},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":1,"pulling": 1,"pull": 1.0},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":1,"charged": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":1,"charged": 1,"firework": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":2}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":2,"pulling": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":2,"pulling": 1,"pull": 0.58},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":2,"pulling": 1,"pull": 1.0},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":2,"charged": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":2,"charged": 1,"firework": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":3}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":3,"pulling": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":3,"pulling": 1,"pull": 0.58},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":3,"pulling": 1,"pull": 1.0},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":3,"charged": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":3,"charged": 1,"firework": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":4}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":4,"pulling": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":4,"pulling": 1,"pull": 0.58},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":4,"pulling": 1,"pull": 1.0},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":4,"charged": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":4,"charged": 1,"firework": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":5}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":5,"pulling": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":5,"pulling": 1,"pull": 0.58},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":5,"pulling": 1,"pull": 1.0},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":5,"charged": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":5,"charged": 1,"firework": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":6}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":6,"pulling": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":6,"pulling": 1,"pull": 0.58},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":6,"pulling": 1,"pull": 1.0},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":6,"charged": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":6,"charged": 1,"firework": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":7}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":7,"pulling": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":7,"pulling": 1,"pull": 0.58},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":7,"pulling": 1,"pull": 1.0},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":7,"charged": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":7,"charged": 1,"firework": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":8}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":8,"pulling": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":8,"pulling": 1,"pull": 0.58},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":8,"pulling": 1,"pull": 1.0},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":8,"charged": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":8,"charged": 1,"firework": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":9}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":9,"pulling": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":9,"pulling": 1,"pull": 0.58},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":9,"pulling": 1,"pull": 1.0},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":9,"charged": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":9,"charged": 1,"firework": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":10}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":10,"pulling": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":10,"pulling": 1,"pull": 0.58},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":10,"pulling": 1,"pull": 1.0},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":10,"charged": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":10,"charged": 1,"firework": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":11}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":11,"pulling": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":11,"pulling": 1,"pull": 0.58},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":11,"pulling": 1,"pull": 1.0},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":11,"charged": 1},"model": "custom/missing"},
+        {"predicate": {"custom_model_data":11,"charged": 1,"firework": 1},"model": "custom/missing"}
     ]
 }
