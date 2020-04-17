@@ -48,7 +48,7 @@
         {"predicate": {"custom_model_data":109}, "model": "custom/bloodbutcher"},
         {"predicate": {"custom_model_data":110}, "model": "custom/lightsbane"},
         {"predicate": {"custom_model_data":111}, "model": "custom/murasame"},
-        {"predicate": {"custom_model_data":112}, "model": "custom/murasamemaru"},
+        {"predicate": {"custom_model_data":112}, "model": "custom/murasamemaru_2"},
         {"predicate": {"custom_model_data":113}, "model": "custom/nights_edge"},
         {"predicate": {"custom_model_data":114}, "model": "custom/seedblade"},
         {"predicate": {"custom_model_data":115}, "model": "custom/silversword"},
