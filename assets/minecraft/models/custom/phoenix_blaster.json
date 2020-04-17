@@ -1397,14 +1397,14 @@
 			"scale":  [ 0.4, 0.4, 0.4 ]
 		},
 		"firstperson_righthand": {
-			"rotation":  [ 90, 180, 90 ],
+			"rotation":  [ 95, 180, 90 ],
 			"translation":  [ 0, 2, 0 ],
-			"scale":  [ 0.4, 0.4, 0.4 ]
+			"scale":  [ 0.35, 0.4, 0.4 ]
 		},
 		"firstperson_lefthand": {
-			"rotation":  [ 90, 180, -90 ],
+			"rotation":  [ 95, 180, -90 ],
 			"translation":  [ 0, 2, 0 ],
-			"scale":  [ 0.4, 0.4, 0.4 ]
+			"scale":  [ 0.35, 0.4, 0.4 ]
 		},
 		"gui": {
 			"rotation":  [ 90, 180, 0 ],

@@ -1,5 +1,6 @@
 {
 	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
+	"gui_light": "front",
 	"textures": {
 		"0": "custom/apocalypto"
 	},
@@ -7125,7 +7126,7 @@
 		"thirdperson_lefthand": {
 			"rotation":  [ 60, 45, 0 ],
 			"translation":  [ 0, 2.5, 3 ],
-			"scale":  [ -0.4, 0.4, 0.4 ]
+			"scale":  [ 0.4, 0.4, 0.4 ]
 		},
 		"firstperson_righthand": {
 			"rotation":  [ 0, -40, 20 ],
@@ -7133,9 +7134,9 @@
 			"scale":  [ 0.5, 0.5, 0.5 ]
 		},
 		"firstperson_lefthand": {
-			"rotation":  [ 0, -40, 20 ],
+			"rotation":  [ 0, 100, -20 ],
 			"translation":  [ 0, 2, 1 ],
-			"scale":  [ -0.5, 0.5, 0.5 ]
+			"scale":  [ 0.5, 0.5, 0.5 ]
 		},
 		"gui": {
 			"rotation":  [ 30, 45, 0 ],

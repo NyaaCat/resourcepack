@@ -2308,12 +2308,12 @@
 			"scale":  [ 1.2, 1.2, 1.2 ]
 		},
 		"firstperson_righthand": {
-			"rotation":  [ 0, -90, 25 ],
+			"rotation":  [ 0, -90, 35 ],
 			"translation":  [ 0, 5, 1.13 ],
 			"scale":  [ 0.65, 0.65, 0.65 ]
 		},
 		"firstperson_lefthand": {
-			"rotation":  [ 0, 90, -25 ],
+			"rotation":  [ 0, 90, -35 ],
 			"translation":  [ 0, 5, 1.13 ],
 			"scale":  [ 0.65, 0.65, 0.65 ]
 		},

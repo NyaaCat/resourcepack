@@ -1,5 +1,6 @@
 {
 	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
+	"gui_light": "front",
 	"textures": {
 		"0": "custom/plasma_cannon_png/1",
 		"1": "custom/plasma_cannon_png/2",
@@ -11,7 +12,8 @@
 		"11": "custom/plasma_cannon_png/12",
 		"12": "custom/plasma_cannon_png/13",
 		"13": "custom/plasma_cannon_png/14",
-		"14": "custom/plasma_cannon_png/15"
+		"14": "custom/plasma_cannon_png/15",
+		"missing": "blocks/missing"
 	},
 	"elements": [ 	 
 		{
@@ -1039,9 +1041,9 @@
 			"scale":  [ 0.9, 0.9, 0.9 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation":  [ 0, 90, 80 ],
+			"rotation":  [ 0, -90, -80 ],
 			"translation":  [ 0, 2, 1 ],
-			"scale":  [ -0.9, 0.9, 0.9 ]
+			"scale":  [ 0.9, 0.9, 0.9 ]
 		},
 		"firstperson_righthand": {
 			"rotation":  [ 0, 95, 5 ],
@@ -1049,9 +1051,9 @@
 			"scale":  [ 0.5, 0.5, 0.5 ]
 		},
 		"firstperson_lefthand": {
-			"rotation":  [ 0, 95, 5 ],
+			"rotation":  [ 0, -95, -5 ],
 			"translation":  [ -1, 2.5, 2 ],
-			"scale":  [ -0.5, 0.5, 0.5 ]
+			"scale":  [ 0.5, 0.5, 0.5 ]
 		},
 		"gui": {
 			"rotation":  [ 30, -45, 0 ],

@@ -2922,22 +2922,22 @@
 		"thirdperson_righthand": {
 			"rotation":  [ 0, 90, 75 ],
 			"translation":  [ -0.5, 4, 4 ],
-			"scale":  [ 1.5, 1.5, 1.5 ]
+			"scale":  [ 1.5, 1.5, 1 ]
 		},
 		"thirdperson_lefthand": {
 			"rotation":  [ 0, -90, -75 ],
 			"translation":  [ 0.5, 4, 4 ],
-			"scale":  [ 1.5, 1.5, 1.5 ]
+			"scale":  [ 1.5, 1.5, 1 ]
 		},
 		"firstperson_righthand": {
 			"rotation":  [ 0, -90, 75 ],
 			"translation":  [ 0, 5.3495, 1.13 ],
-			"scale":  [ 0.65, 0.65, 0.65 ]
+			"scale":  [ 0.65, 0.65, 0.45 ]
 		},
 		"firstperson_lefthand": {
 			"rotation":  [ 0, 90, -75 ],
 			"translation":  [ 0, 5.3495, 1.13 ],
-			"scale":  [ 0.65, 0.65, 0.65 ]
+			"scale":  [ 0.65, 0.65, 0.45 ]
 		},
 		"head": {
 			"translation":  [ 0, 12, 7 ]
