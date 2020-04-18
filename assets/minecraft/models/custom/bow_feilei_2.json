@@ -2,7 +2,7 @@
 	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
 	"gui_light": "front",
 	"textures": {
-		"bow_feilei_2": "blocks/bow_feilei_2"
+		"bow_feilei_2": "custom/bow_feilei_2"
 	},
 	"elements": [ 	 
 		{
