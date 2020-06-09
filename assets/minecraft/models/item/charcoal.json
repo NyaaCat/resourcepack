@@ -5,9 +5,9 @@
     },
     "overrides":[
         {"predicate": {"custom_model_data":1}, "model": "custom/ballista_2_minion"},
-        {"predicate": {"custom_model_data":2}, "model": "custom/missing"},
-        {"predicate": {"custom_model_data":3}, "model": "custom/missing"},
-        {"predicate": {"custom_model_data":4}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":2}, "model": "custom/moon_portal_minion"},
+        {"predicate": {"custom_model_data":3}, "model": "custom/snowball_cannon_minion"},
+        {"predicate": {"custom_model_data":4}, "model": "custom/stellar_tune_minion"},
         {"predicate": {"custom_model_data":5}, "model": "custom/missing"},
         {"predicate": {"custom_model_data":6}, "model": "custom/missing"},
         {"predicate": {"custom_model_data":7}, "model": "custom/missing"},
