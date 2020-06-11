@@ -38,7 +38,7 @@
         {"predicate": {"custom_model_data":110}, "model": "custom/magic_lantern_wand"},
         {"predicate": {"custom_model_data":111}, "model": "custom/longteng_ranged_module"},
         {"predicate": {"custom_model_data":112}, "model": "custom/longteng_magic_module"},
-        {"predicate": {"custom_model_data":113}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":113}, "model": "custom/holy_totem_wand"},
         {"predicate": {"custom_model_data":114}, "model": "custom/missing"},
         {"predicate": {"custom_model_data":115}, "model": "custom/missing"},
         {"predicate": {"custom_model_data":116}, "model": "custom/missing"},
