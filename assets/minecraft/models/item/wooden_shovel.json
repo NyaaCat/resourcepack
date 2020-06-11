@@ -57,7 +57,7 @@
         {"predicate": {"custom_model_data":51}, "model": "custom/grenade_launcher"},
         {"predicate": {"custom_model_data":52}, "model": "custom/grenade_launcher_2"},
         {"predicate": {"custom_model_data":53}, "model": "custom/laser_magnum"},
-        {"predicate": {"custom_model_data":54}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":54}, "model": "custom/plasma_blast"},
         {"predicate": {"custom_model_data":55}, "model": "custom/missing"},
         {"predicate": {"custom_model_data":56}, "model": "custom/missing"},
         {"predicate": {"custom_model_data":57}, "model": "custom/missing"},
