@@ -51,10 +51,20 @@
         {"predicate": {"custom_model_data":123}, "model": "custom/stardust_wand"},
         {"predicate": {"custom_model_data":124}, "model": "custom/summon_thunder_wand"},
         {"predicate": {"custom_model_data":125}, "model": "custom/totem_chaos_wand"},
-        {"predicate": {"custom_model_data":126}, "model": "custom/missing"},
-        {"predicate": {"custom_model_data":127}, "model": "custom/missing"},
-        {"predicate": {"custom_model_data":128}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":126}, "model": "custom/arrow_rain_wand"},
+        {"predicate": {"custom_model_data":127}, "model": "custom/black_hole_wand"},
+        {"predicate": {"custom_model_data":128}, "model": "custom/sniper_satellite_caller"},
         {"predicate": {"custom_model_data":129}, "model": "custom/missing"},
-        {"predicate": {"custom_model_data":130}, "model": "custom/missing"}
+        {"predicate": {"custom_model_data":130}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":131}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":132}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":133}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":134}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":135}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":136}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":137}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":138}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":139}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":140}, "model": "custom/missing"}
     ]
 }
