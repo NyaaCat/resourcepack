@@ -10,7 +10,7 @@
         {"predicate": {"custom_model_data":4}, "model": "custom/crystal_javelin"},
         {"predicate": {"custom_model_data":5}, "model": "custom/fork_dark"},
         {"predicate": {"custom_model_data":6}, "model": "custom/fork_light"},
-        {"predicate": {"custom_model_data":7}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":7}, "model": "custom/north_stream_whisper"},
         {"predicate": {"custom_model_data":8}, "model": "custom/missing"},
         {"predicate": {"custom_model_data":9}, "model": "custom/missing"},
         {"predicate": {"custom_model_data":10}, "model": "custom/missing"}
