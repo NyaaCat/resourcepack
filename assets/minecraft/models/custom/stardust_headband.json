@@ -1,5 +1,6 @@
 {
 	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
+	"gui_light": "front",
 	"textures": {
 		"0": "custom/stardust_headband"
 	},

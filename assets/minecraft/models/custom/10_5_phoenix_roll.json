@@ -1,5 +1,6 @@
 {
 	"__comment": "Designed by NyaaCat with Cubik Studio - https://cubik.studio",
+	"gui_light": "front",
 	"textures": {
 		"1": "custom/phoenix_roll",
 		"2": "custom/10_5_phoenix_roll_424"
