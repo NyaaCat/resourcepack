@@ -1,7 +1,7 @@
 {
-	"parent": "custom/weapon/murasame",
+	"parent": "custom/weapon/blades",
 	"textures": {
-		"0": "custom/weapon/murasamemaru",
+		"layer0": "custom/weapon/murasamemaru",
 		"particle": "custom/weapon/murasamemaru"
 	}
 }
