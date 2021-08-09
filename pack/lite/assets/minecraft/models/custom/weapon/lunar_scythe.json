@@ -1,0 +1,7 @@
+{
+	"parent": "custom/weapon/blades",
+	"textures": {
+		"layer0": "custom/weapon/lunar_scythe",
+		"particle": "custom/weapon/lunar_scythe"
+	}
+}

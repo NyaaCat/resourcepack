@@ -1,0 +1,7 @@
+{
+	"parent": "custom/weapon/blades",
+	"textures": {
+		"layer0": "custom/weapon/thunder_blade",
+		"particle": "custom/weapon/thunder_blade"
+	}
+}

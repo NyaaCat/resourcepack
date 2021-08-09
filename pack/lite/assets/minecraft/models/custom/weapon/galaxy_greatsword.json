@@ -1,0 +1,7 @@
+{
+	"parent": "custom/weapon/blades",
+	"textures": {
+		"layer0": "custom/weapon/galaxy_greatsword",
+		"particle": "custom/weapon/galaxy_greatsword"
+	}
+}

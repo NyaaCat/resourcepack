@@ -1,0 +1,7 @@
+{
+	"parent": "custom/weapon/blades",
+	"textures": {
+		"layer0": "custom/weapon/nights_edge",
+		"particle": "custom/weapon/nights_edge"
+	}
+}

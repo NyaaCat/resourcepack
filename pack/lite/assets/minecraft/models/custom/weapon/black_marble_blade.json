@@ -1,0 +1,7 @@
+{
+	"parent": "custom/weapon/blades",
+	"textures": {
+		"layer0": "custom/weapon/black_marble_blade",
+		"particle": "custom/weapon/black_marble_blade"
+	}
+}

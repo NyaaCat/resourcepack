@@ -1,0 +1,7 @@
+{
+	"parent": "custom/weapon/guns",
+	"textures": {
+		"layer0": "custom/weapon/brodiaea",
+		"particle": "custom/weapon/brodiaea"
+	}
+}
