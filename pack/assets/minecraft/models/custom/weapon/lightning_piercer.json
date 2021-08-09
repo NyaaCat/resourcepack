@@ -1,7 +1,0 @@
-{
-	"parent": "custom/weapon/guns",
-	"textures": {
-		"layer0": "custom/weapon/lightning_piercer",
-		"particle": "custom/weapon/lightning_piercer"
-	}
-}

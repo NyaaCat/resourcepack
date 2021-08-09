@@ -1,6 +1,0 @@
-{
-	"parent": "custom/consume/potion_of_healing",
-	"textures": {
-		"0": "custom/consume/potion_of_invisibility"
-	}
-}

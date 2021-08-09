@@ -1,7 +1,0 @@
-{
-	"parent": "custom/weapon/guns",
-	"textures": {
-		"layer0": "custom/weapon/vortex_whirlwind",
-		"particle": "custom/weapon/vortex_whirlwind"
-	}
-}

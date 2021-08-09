@@ -1,7 +1,0 @@
-{
-	"parent": "custom/weapon/blades",
-	"textures": {
-		"layer0": "custom/weapon/yateveo_bloom",
-		"particle": "custom/weapon/yateveo_bloom"
-	}
-}

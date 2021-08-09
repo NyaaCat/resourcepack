@@ -1,7 +1,0 @@
-{
-	"parent": "custom/weapon/blades",
-	"textures": {
-		"layer0": "custom/weapon/stellar_striker",
-		"particle": "custom/weapon/stellar_striker"
-	}
-}

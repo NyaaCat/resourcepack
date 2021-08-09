@@ -1,7 +1,0 @@
-{
-	"parent": "custom/weapon/blades",
-	"textures": {
-		"layer0": "custom/weapon/venomous_reverse_blade",
-		"particle": "custom/weapon/venomous_reverse_blade"
-	}
-}

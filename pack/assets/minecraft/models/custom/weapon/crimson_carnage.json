@@ -1,7 +1,0 @@
-{
-	"parent": "custom/weapon/blades",
-	"textures": {
-		"layer0": "custom/weapon/crimson_carnage",
-		"particle": "custom/weapon/crimson_carnage"
-	}
-}

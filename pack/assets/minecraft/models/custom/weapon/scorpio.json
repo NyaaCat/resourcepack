@@ -1,7 +1,0 @@
-{
-	"parent": "custom/weapon/guns",
-	"textures": {
-		"layer0": "custom/weapon/scorpio",
-		"particle": "custom/weapon/scorpio"
-	}
-}
