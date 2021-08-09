@@ -4,4 +4,4 @@ Resource pack for NyaaCat server
 
 ## Download
 
-[Download from our Jenkins](https://ci.nyaacat.com/job/resourcepacks/job/v3%252full)
+[Download from our Jenkins](https://ci.nyaacat.com/job/resourcepacks/job/v3%252lite)
