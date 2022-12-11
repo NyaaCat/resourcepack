@@ -72,8 +72,8 @@
         {"predicate": {"custom_model_data":144}, "model": "custom/lightball_wand"},
         {"predicate": {"custom_model_data":145}, "model": "custom/mon3tr_wand"},
         {"predicate": {"custom_model_data":146}, "model": "custom/stardust_blast"},
-        {"predicate": {"custom_model_data":147}, "model": "custom/missing"},
-        {"predicate": {"custom_model_data":148}, "model": "custom/missing"},
+        {"predicate": {"custom_model_data":147}, "model": "custom/car_smg"},
+        {"predicate": {"custom_model_data":148}, "model": "custom/dr_mk2"},
         {"predicate": {"custom_model_data":149}, "model": "custom/missing"},
         {"predicate": {"custom_model_data":150}, "model": "custom/missing"}
     ]
